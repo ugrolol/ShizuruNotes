@@ -1,981 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="app_name">ShizuruNotes</string>
-
-  <string name="Accuracy">Точность</string>
-
-  <string name="Action">действие</string>
-
-  <string name="Add_additional_s1_damage_per_attack_with_max_s2_stacks_to_current_target">Добавьте дополнительный урон %1$s за атаку с максимальным стэком %2$s к текущей цели</string>
-
-  <string name="Add_additional_s1_s2_to_s3_for_next_s4_attacks">Добавьте дополнительные %1$s %2$s к %3$s для следующих атак %4$s</string>
-
-  <string name="Add_d_to_the_counter">Добавить %d к счетчику</string>
-
-  <string name="Add_s1_mark_stacks_max_s2_ID_s3_on_s4_for_s5_sec">Добавьте [ %1$s] максимумов стеков [ %2$s] [ID: %3$s] на %4$s для %5$s sec</string>
-
-  <string name="all">"все "</string>
-
-  <string name="all_front_enemy_targets">передние цели противника</string>
-
-  <string name="all_front_including_self_friendly_targets">фронт, включая самодружественные цели</string>
-
-  <string name="all_front_including_self_s_friendly_targets">фронт, включая собственные %s дружественные цели</string>
-
-  <string name="all_front_s_enemy_targets">передние %s вражеские цели</string>
-
-  <string name="all_front_s_targets">передние %s цели</string>
-
-  <string name="all_front_targets">передние цели</string>
-
-  <string name="all_s_s_targets">%2$s %1$s цели</string>
-
-  <string name="all_s_targets">%s цели</string>
-
-  <string name="any_of_s">любой из %s</string>
-
-  <string name="app_full_name">ShizuruNotes</string>
-
-  <string name="app_update_check_failed">Не удалось проверить обновление приложения</string>
-
-  <string name="Appear_after_s_sec_since_wave_start">Появляется через %s сек с начала волны</string>
-
-  <string name="At_d1_behind_of_s2_summon_a_minion_id_d3">Призвать миньона [id: %3$d] в диапазоне %1$d позади %2$s</string>
-
-  <string name="At_d1_in_front_of_s2_summon_a_minion_id_d3">Призвать миньона [id: %3$d] в диапазоне %1$d перед %2$s</string>
-
-  <string name="At_the_position_of_s1_summon_a_minion_id_d2">Призвать миньона [id: %2$d] в позиции %1$s</string>
-
-  <string name="ATK">ATK</string>
-
-  <string name="Awe">Трепет</string>
-
-  <string name="before_2_summary">За 2 дня до</string>
-
-  <string name="before_summary">днем ранее</string>
-
-  <string name="Bind">привязывать</string>
-
-  <string name="Blind">Слепой</string>
-
-  <string name="Blind_s1_with_s2_chance_for_s3_sec_physical_attack_has_d4_chance_to_miss">Слепой %1$s с вероятностью %2$s %% для физической атаки %3$s sec имеет шанс %4$d %% пропустить</string>
-
-  <string name="blinded">Ослепленный</string>
-
-  <string name="boss">"босс"</string>
-
-  <string name="both_sides">"юниты с обеих сторон"</string>
-
-  <string name="breaking">ломка</string>
-
-  <string name="buffs">баффы</string>
-
-  <string name="Burn">жечь</string>
-
-  <string name="burned">сожженный</string>
-
-  <string name="button_minion_info">Информация миньонов</string>
-
-  <string name="campaign">"кампания "</string>
-
-  <string name="Cast_a_barrier_on_s1_to_absorb_s2_magical_damage_for_s3_sec">Создайте барьер на %1$s, чтобы поглотить магический урон %2$s на %3$s sec.</string>
-
-  <string name="Cast_a_barrier_on_s1_to_absorb_s2_physical_and_magical_damage_for_s3_sec">Создайте барьер на %1$s, чтобы поглотить %2$s физического и магического урона на %3$s sec.</string>
-
-  <string name="Cast_a_barrier_on_s1_to_absorb_s2_physical_damage_for_s3_sec">Создайте барьер на %1$s, чтобы поглотить физический урон %2$s на %3$s sec.</string>
-
-  <string name="Cast_a_barrier_on_s1_to_nullify_s2_magical_damage_for_s3_sec">Создайте барьер на %1$s, чтобы свести на нет магический урон %2$s на %3$s sec.</string>
-
-  <string name="Cast_a_barrier_on_s1_to_nullify_s2_physical_and_magical_damage_for_s3_sec">Создайте барьер на %1$s, чтобы свести на нет %2$s физического и магического урона на %3$s sec.</string>
-
-  <string name="Cast_a_barrier_on_s1_to_nullify_s2_physical_damage_for_s3_sec">Установите барьер на %1$s, чтобы аннулировать физический урон %2$s на %3$s sec.</string>
-
-  <string name="Cast_a_barrier_on_s1_to_strike_back_s2_damage_and_recover_the_same_HP_when_taking_damage">Создайте барьер на %1$s, чтобы отразить урон %2$s и восстановить то же HP при получении урона</string>
-
-  <string name="Cast_a_barrier_on_s1_to_strike_back_s2_damage_and_recover_the_same_HP_when_taking_magical_damage">Создайте барьер на %1$s, чтобы отразить урон %2$s и восстановить то же HP при получении магического урона</string>
-
-  <string name="Cast_a_barrier_on_s1_to_strike_back_s2_damage_and_recover_the_same_HP_when_taking_physical_damage">Создайте барьер на %1$s, чтобы отразить урон %2$s и восстановить то же HP при получении физического урона</string>
-
-  <string name="Cast_a_barrier_on_s1_to_strike_back_s2_damage_when_taking_damage">Создайте барьер на %1$s, чтобы наносить урон %2$s при получении урона.</string>
-
-  <string name="Cast_a_barrier_on_s1_to_strike_back_s2_damage_when_taking_magical_damage">Создайте барьер на %1$s для нанесения урона %2$s при получении магического урона</string>
-
-  <string name="Cast_a_barrier_on_s1_to_strike_back_s2_damage_when_taking_physical_damage">Создайте барьер на %1$s для нанесения урона %2$s при получении физического урона</string>
-
-  <string name="Cast_an_unknown_barrier_d1_on_s2_for_s3_sec">Создайте неизвестный барьер %1$d на %2$s на %3$s sec</string>
-
-  <string name="Change_attack_pattern_back_to_d_after_effect_over">Измените шаблон атаки обратно на %d после эффекта</string>
-
-  <string name="Change_attack_pattern_to_d1_for_s2_sec">Изменить шаблон атаки на %1$d для %2$s sec</string>
-
-  <string name="Change_body_width_to_s">Изменить ширину тела на %s</string>
-
-  <string name="Change_self_position_s_backward">Изменить собственную позицию %s назад</string>
-
-  <string name="Change_self_position_s_backward_then_return">Измени собственную позицию %s назад, затем вернись</string>
-
-  <string name="Change_self_position_s_forward">Изменить собственную позицию %s вперед</string>
-
-  <string name="Change_self_position_s_forward_then_return">Изменить собственную позицию %s вперед, затем вернуться</string>
-
-  <string name="Change_self_position_to_s">Изменить собственную позицию на %s</string>
-
-  <string name="Change_self_position_to_s_then_return">Измените собственную позицию на %s, затем вернитесь</string>
-
-  <string name="Change_skill_visual_effect_for_s_sec">Изменить скилл визуального эффекта на %s сек</string>
-
-  <string name="Change_the_perspective_on_s">Изменить POV %s</string>
-
-  <string name="Change_the_perspective_to_s1_d2">Измените POV на %1$s %2$d</string>
-
-  <string name="Changing_Max_HP">HP изменить</string>
-
-  <string name="Channeling_for_s1_sec_disrupted_by_taking_damage_d2_times_s3_s4_s5_s6_s7">%3$s %7$s из %4$s [ %5$s %6$s], эта часть длится [ %1$s] секунд или до получения урона %2$d раз [s].</string>
-
-  <string name="Charge_for_s1_sec_and_deal_s2_damage_taken_additional_damage_on_the_next_effect">Заряжайте в течение [ %1$s] секунд и увеличивайте эффект от следующего действия на [ %2$s * урон, полученный во время зарядки].</string>
-
-  <string name="Charm">очарование</string>
-
-  <string name="Charm_s1_with_s2_chance_for_s3_sec">Очарование %1$s с вероятностью %2$s %% для %3$s sec</string>
-
-  <string name="charmed_or_confused">очарован или смущен</string>
-
-  <string name="clanBattle">"ClanBattle "</string>
-
-  <string name="Clear_all_s1_on_s2_with_chance_s3">Очистить все %1$s на %2$s с шансом %3$s %%</string>
-
-  <string name="Condition_if_the_specific_field_exists_then_use_d">Условие: если определенное поле существует, используйте [ %d]</string>
-
-  <string name="Condition_if_the_specific_field_exists_then_use_d1_otherwise_d2">Условие: если определенное поле существует, используйте [ %1$d], в противном случае [ %2$d]</string>
-
-  <string name="Condition_s">Состояние: %s</string>
-
-  <string name="Condition_s1_chance_use_d2_when_takes_damage_within_s3_sec">Условие %1$s %% шанс использовать %2$d, когда получает урон в течение %3$s сек.</string>
-
-  <string name="Confuse">Confuse</string>
-
-  <string name="Confuse_s1_with_s2_chance_for_s3_sec">Путать %1$s с вероятностью %2$s %% для %3$s sec</string>
-
-  <string name="controlled">контролируемых</string>
-
-  <string name="Cost_s1_TP_sec_change_attack_pattern_to_d2_until_TP_is_zero">Он меняет свой шаблон поведения на %2$d до тех пор, пока TP не исчерпает себя, и потребляет [ %1$s] TP каждую секунду.</string>
-
-  <string name="Count_Blind">Граф слепой</string>
-
-  <string name="counter_is_greater_than_or_equal_to_d1_then_use_d2">если счетчик ≥ %1$d, используйте [ %2$d]</string>
-
-  <string name="counter_is_less_than_d1_then_use_d2">счетчик меньше, чем %1$d использовать %2$d</string>
-
-  <string name="Critical_damage_is_s_times_as_normal_damage">Критический урон в %s раз больше обычного.</string>
-
-  <string name="Curse">проклятие</string>
-
-  <string name="cursed">проклятый</string>
-
-  <string name="d1_chance_use_d2">" %1$d %% шанс использовать %2$d"</string>
-
-  <string name="db_update_check_failed">Проверка обновления не удалась</string>
-
-  <string name="db_update_dialog_cancel">Не сейчас</string>
-
-  <string name="db_update_dialog_confirm">Обновить</string>
-
-  <string name="db_update_download_finished_text">Загрузка обновления БД завершена</string>
-
-  <string name="db_update_dialog_title">Обновление БД</string>
-
-  <string name="db_update_failed">Обновление не удалось</string>
-
-  <string name="db_update_finished_text">Обновление завершено</string>
-
-  <string name="db_update_finished_title">Обновление завершено</string>
-
-  <string name="db_update_progress_text">Обновление</string>
-
-  <string name="db_update_progress_title">Обновление базы данных</string>
-
-  <string name="Deal_damage_equal_to_s1_of_target_current_HP_to_s2">Наносит урон, равный %1$s %% от [текущего здоровья цели], до %2$s</string>
-
-  <string name="Deal_damage_equal_to_s1_of_target_max_HP_to_s2">Наносит урон, равный %1$s %% от [максимального здоровья цели], до %2$s</string>
-
-  <string name="Deal_s1_s2_damage_to_s3">Наносит %1$s %2$s урона %3$s</string>
-
-  <string name="Deal_s1_s2_damage_to_s3_and_this_attack_is_ensured_critical">Нанести %1$s %2$s урон %3$s, и эта атака гарантированно критическая</string>
-
-  <string name="debuffs">дебаффы</string>
-
-  <string name="decoying">завлекающий</string>
-
-  <string name="DEF">DEF</string>
-
-  <string name="Detain">задержала</string>
-
-  <string name="Detain_Damage">Задержать урон</string>
-
-  <string name="Dodge">Уклонение</string>
-
-  <string name="Dot">точка</string>
-
-  <string name="Draw_s1_toward_self_d2">Нарисуйте %1$s к себе %2$d</string>
-
-  <string name="drop_s">дроп x %s</string>
-
-  <string name="dungeon">"Подземелье:  "</string>
-
-  <string name="dungeon_before_2_title">Уведомление о подземелье</string>
-
-  <string name="enemy">"враг"</string>
-
-  <string name="Energy_Recovery_Rate">восстановление тп</string>
-
-  <string name="Energy_Reduce_Rate">снижение стоимости</string>
-
-  <string name="Exclusive_condition_s">Эксклюзивное состояние: %s</string>
-
-  <string name="exp_s">опыт x %s</string>
-
-  <string name="exploration">"Исследование: "</string>
-
-  <string name="Faint">тусклый</string>
-
-  <string name="Fear">Страх</string>
-
-  <string name="Fear_s1_with_s2_chance_for_s3_sec">Страх %1$s с вероятностью %2$s %% за %3$s sec</string>
-
-  <string name="fifth">"пятый"</string>
-
-  <string name="first">"первый "</string>
-
-  <string name="four">четырем</string>
-
-  <string name="fourth">"четвертый"</string>
-
-  <string name="Freeze">Стоп-кадр</string>
-
-  <string name="friendly">"союзник"</string>
-
-  <string name="front">"фронт "</string>
-
-  <string name="front_and_back">"спереди и сзади "</string>
-
-  <string name="front_including_self">"фронт включая себя"</string>
-
-  <string name="front_s1_s2_targets_in_range_d3">передние цели %1$s %2$s в диапазоне [ %3$d]</string>
-
-  <string name="front_s1_targets_in_range_d2">передние цели %1$s в диапазоне [ %2$d]</string>
-
-  <string name="gacha">"Free gacha "</string>
-
-  <string name="hard">"Тяжелый: "</string>
-
-  <string name="Haste">поспешность</string>
-
-  <string name="hatsune">Эвент</string>
-
-  <string name="hatsune_hard">"Эвент хард: "</string>
-
-  <string name="hatsune_normal">"Эвент нормал: "</string>
-
-  <string name="Hex">наговор</string>
-
-  <string name="hit">удар</string>
-
-  <string name="HP">Здоровье</string>
-
-  <string name="HP_Recovery_Rate">Восстановления HP</string>
-
-  <string name="icon_cancel_all">Очистить все</string>
-
-  <string name="icon_notification">Уведомление</string>
-
-  <string name="if_target_is_defeated_by_the_last_effect_then_use_d">если цель побеждена последним эффектом, используйте [ %d]</string>
-
-  <string name="if_target_is_not_defeated_by_the_last_effect_then_use_d">если цель не побеждена последним эффектом, используйте %d</string>
-
-  <string name="In_nex_s1_sec_s2_physical_attacks_will_miss">В следующие %1$s sec %2$s физические атаки будут отсутствовать</string>
-
-  <string name="In_next_s1_attacks_s2_physical_attacks_will_miss">В следующих атаках %1$s физические атаки% 2 $ будут пропущены</string>
-
-  <string name="inevitable_physical">неизбежный физический</string>
-
-  <string name="Inhibit_Heal">Запретить лечение</string>
-
-  <string name="Instant_Death">Мгновенная смерть</string>
-
-  <string name="Kill_s_instantly">Убить %s мгновенно</string>
-
-  <string name="Knock_Back">Стук назад</string>
-
-  <string name="Knock_s1_away_d2">Сбить %1$s прочь с %2$d</string>
-
-  <string name="Knock_s1_up_d2">Сбить %1$s до %2$d</string>
-
-  <string name="last_hour_summary">последний час</string>
-
-  <string name="Life_Steal">Кража жизни</string>
-
-  <string name="loop_end">конец цикла</string>
-
-  <string name="loop_start">начало цикла</string>
-
-  <string name="magic">"магический тип"</string>
-
-  <string name="Magic_DEF">Магическая защита</string>
-
-  <string name="Magic_Critical">Магический Крит</string>
-
-  <string name="Magic_Penetrate">Магическое пробитие</string>
-
-  <string name="Magic_STR">Магическая сила</string>
-
-  <string name="magical">волшебный</string>
-
-  <string name="Magical_Critical_Damage">Магический Критический Урон</string>
-
-  <string name="Make_s1_attract_enemy_attacks_last_for_s2_sec">Провоцировать врага на %2$s sec</string>
-
-  <string name="Make_s1_fall_asleep_for_s2_sec">Заставьте %1$s уснуть на %2$s sec</string>
-
-  <string name="Make_s1_fall_into_faint_for_s2_sec">Заставьте %1$s упасть в обморок на %2$s sec</string>
-
-  <string name="Make_s1_lose_s2_TP">Заставьте %1$s потерять %2$s TP</string>
-
-  <string name="Make_s1_to_be_invulnerable_for_s2_sec">Сделайте %1$s неуязвимым для %2$s sec</string>
-
-  <string name="Make_s1_to_be_invulnerable_to_break_for_s2_sec">Сделайте %1$s неуязвимым, чтобы сломаться на %2$s sec</string>
-
-  <string name="Make_s1_to_be_invulnerable_to_physical_damage_for_s2_sec">Сделайте %1$s неуязвимым для физического урона на %2$s sec</string>
-
-  <string name="Make_s1_when_deal_critical_damage_gain_one_mark_stack_max_s2_ID_s3_for_s4_sec">Каждый раз, когда наносится критический урон, вы получаете один стек [max %2$s] баффа [ID: %3$s] в течение %4$s сек.</string>
-
-  <string name="Make_s1_when_deal_damage_gain_one_mark_stack_max_s2_ID_s3_for_s4_sec">Каждый раз, когда наносит урон, получает 1 стопку баффа [ID: %3$s], время эффекта составляет [ %4$s] секунд, и этот эффект суммируется до [ %2$s].</string>
-
-  <string name="Make_s1_when_get_one_hit_by_the_caster_gain_one_mark_stack_max_s2_ID_s3_for_s4_sec">Каждый раз при попадании [ %1$s] увеличивается стек баффа [ID: %3$s]. Продолжительность [ %4$s] секунд. Эффект суммируется до [ %2$s].</string>
-
-  <string name="mana_s">мана x %s</string>
-
-  <string name="master_coin_s">мастер койны x %s</string>
-
-  <string name="minion">"вызванный"</string>
-
-  <string name="Modifier_add_s1_count_of_defeated_enemies_to_value_d2_of_effect_d3">Увеличьте значение [part %3$d] на [ %1$s * количество побежденных врагов].</string>
-
-  <string name="Modifier_add_s1_count_of_omemes_value_d2_of_effect_d3">Увеличьте значение [part %3$d] на [ %1$s * количество Омэ-тян].</string>
-
-  <string name="Modifier_add_s1_count_of_s2_behind_self_to_value_d3_of_effect_d4">Увеличьте значение [part %4$d] на [ %1$s * количество %2$s позади].</string>
-
-  <string name="Modifier_add_s1_count_of_targets_to_value_d2_of_effect_d3">Увеличьте значение [part %3$d] на [ %1$s * количество целей].</string>
-
-  <string name="Modifier_add_s1_HP_to_value_d2_of_effect_d3">Увеличьте значение [part %3$d] на [ %1$s * HP].</string>
-
-  <string name="Modifier_add_s1_lost_HP_to_value_d2_of_effect_d3">Увеличьте значение [part %3$d] на [ %1$s * HP потерян].</string>
-
-  <string name="Modifier_add_s1_s2_of_s3_to_value_d4_of_effect_d5">Увеличьте значение [part %5$d] на [ %1$s * %2$s].</string>
-
-  <string name="Modifier_add_s1_stacks_of_mark_ID_d2_to_value_d3_of_effect_d4">Увеличьте значение [part %4$d] на [Число стеков баффов * %1$s].</string>
-
-  <string name="Modifier_add_s1_total_damage_to_value_d2_of_effect_d3">Увеличивает значение [part %3$d] на [ %1$s * общее количество нанесенного урона].</string>
-
-  <string name="Modifier_multiple_s1_count_of_defeated_enemies_to_value_d2_of_effect_d3">Умножьте значение [part %3$d] на [ %1$s * количество убитых врагов].</string>
-
-  <string name="Modifier_multiple_s1_HP_max_HP_to_value_d2_of_effect_d3">Умножьте значение [part %3$d] на [ %1$s * HP /MaxHP].</string>
-
-  <string name="Modifier_multiple_s1_lost_HP_max_HP_to_value_d2_of_effect_d3">Умножьте значение [part %3$d] на [ %1$s * Lost HP /MaxHP].</string>
-
-  <string name="Modifier_multiple_s1_stacks_of_mark_ID_d2_to_value_d3_of_effect_d4">Умножьте значение [part %4$d] на [ %1$s * mark [ID: %2$d] количество стеков].</string>
-
-  <string name="Move_backward_s1_with_velocity_s2_sec">Переместиться назад [ %1$s] со скоростью [ %2$s].</string>
-
-  <string name="Move_forward_s1_with_velocity_s2_sec">Двигайтесь вперед [ %1$s] со скоростью [ %2$s].</string>
-
-  <string name="Move_Part_d1_d2_forward_then_return">Переместить часть %1$d %2$d вперед и вернуться</string>
-
-  <string name="Move_Speed">Скорость движения</string>
-
-  <string name="Move_to_s1_behind_of_s2_with_velocity_s3_sec">Переместитесь в положение [ %1$s] позади %2$s со скоростью [ %3$s].</string>
-
-  <string name="Move_to_s1_in_front_of_s2_with_velocity_s3_sec">Переместитесь в положение [ %1$s] перед %2$s со скоростью [ %3$s].</string>
-
-  <string name="normal">"Нормальный: "</string>
-
-  <string name="normal_before_title">Нормальное уведомление</string>
-
-  <string name="normal_type">нормальный тип</string>
-
-  <string name="one">"один "</string>
-
-  <string name="opposite">напротив</string>
-
-  <string name="others">" Другое"</string>
-
-  <string name="own_side">собственная сторона</string>
-
-  <string name="Paralyse">Парализовать</string>
-
-  <string name="Petrify">окаменевать</string>
-
-  <string name="phantom_type">фантомный тип</string>
-
-  <string name="physical">физического</string>
-
-  <string name="Physical_Critical">Физический Крит</string>
-
-  <string name="Physical_Critical_Damage">Физический Критический Урон</string>
-
-  <string name="Physical_Penetrate">Физическое проюитие</string>
-
-  <string name="physics">"физический тип"</string>
-
-  <string name="Poison">отрава</string>
-
-  <string name="Poison_s1_and_deal_s2_damage_per_second_for_s3_sec">Яд %1$s и наносит %2$s урона в секунду в течение %3$s sec</string>
-
-  <string name="Poison_s1_violently_and_deal_s2_damage_per_second_for_s3_sec">Сильно отравляет %1$s и наносит %2$s урона в секунду в течение %3$s sec</string>
-
-  <string name="poisoned">Отравленные</string>
-
-  <string name="poisoned_or_venomed">отравленный или отравленный</string>
-
-  <string name="Polymorph">полиморф</string>
-
-  <string name="Polymorph_s1_for_s2_sec">Полиморф %1$s для %2$s sec</string>
-
-  <string name="Raise">Увеличение</string>
-
-  <string name="Raise_s1_d2_attack_speed_for_s3_sec">Увеличьте скорость действия %1$s на %2$d для %3$s sec.</string>
-
-  <string name="Raise_s1_s2">Увеличение %1$s %2$s</string>
-
-  <string name="random">"случайный"</string>
-
-  <string name="Random_event_d1_chance_use_d2">Случайное событие %1$d %% шанс использования %2$d</string>
-
-  <string name="Random_event_d1_chance_use_d2_otherwise_d3">Случайное событие %1$d %% шанс использовать %2$d в противном случае %3$d</string>
-
-  <string name="random_minion">"случайный миньон"</string>
-
-  <string name="random_self_minion">"случайный я миньон"</string>
-
-  <string name="Reduce">уменьшить</string>
-
-  <string name="Reduce_s1_d2_attack_speed_for_s3_sec">Уменьшите скорость действия %1$s на %2$d для %3$s sec</string>
-
-  <string name="Reduce_s1_damage_or_instant_healing_effect_of_union_burst_and_main_skills_cast_by_s2_for_s3_sec">Уменьшает урон %1$s или мгновенный эффект исцеления от заклинаний "Союз" и основных умений, применяемых на %2$s, на %3$s sec</string>
-
-  <string name="Reduce_s1_damage_or_instant_healing_effect_of_union_burst_cast_by_s2_for_s3_sec">Снижение %1$s урона или мгновенного исцеляющего эффекта наложения союзного взрыва на %2$s на %3$s sec.</string>
-
-  <string name="Remove_field_of_skill_d1_1_represents_the_first_skill_in_this_list_effect_d2">Удалить поле навыка %1$d 1 представляет первый навык в этом списке с эффектом %2$d</string>
-
-  <string name="Remove_s1_mark_stacks_ID_s2_on_s3">Удалить [ %1$s] стеков баффов [ID: %2$s] на %3$s</string>
-
-  <string name="Repeat_effect_d1_every_s2_sec_up_to_s3_sec_break_if_taken_more_than_s4_damage">Повторите эффект %1$d каждые %2$s sec до перерыва %3$s sec, если получено более %4$s урона</string>
-
-  <string name="Restore_s1_s2_s3_HP">Восстановить HP 1 $ s %2$s %3$s HP</string>
-
-  <string name="Restore_s1_s2_s3_per_second_for_s4_sec">Восстановить %1$s %2$s %3$s в секунду для %4$s sec</string>
-
-  <string name="Restore_s1_s2_TP">Восстановить %1$s %2$s TP</string>
-
-  <string name="revival_event_hard">"Реран эвент хард: "</string>
-
-  <string name="revival_event_normal">"Рерал эвента нормал: "</string>
-
-  <string name="Revive_s1_with_d2_HP">Оживите %1$s с HP %2$d (на это значение влияет увеличение значения персонажа для восстановления)</string>
-
-  <string name="s_boss">%s босс</string>
-
-  <string name="s_Damage_is_reduced_on_low_level_players">Урон %s снижается у игроков низкого уровня</string>
-
-  <string name="s_farthest">" %s самый дальний"</string>
-
-  <string name="s_highest_ATK">" %s самый высокий ATK"</string>
-
-  <string name="s_highest_HP_ratio">" %s самый высокий HP"</string>
-
-  <string name="s_highest_Magic_STR">" %s наивысшая Магия STR"</string>
-
-  <string name="s_highest_TP">%s самый высокий TP</string>
-
-  <string name="s_lowest_ATK">" %s самый низкий ATK"</string>
-
-  <string name="s_lowest_HP_ratio">" %s самый низкий HP"</string>
-
-  <string name="s_lowest_Magic_STR">" %s самая низкая Магия STR"</string>
-
-  <string name="s_lowest_TP">%s самый низкий TP</string>
-
-  <string name="s_magic">" %s magic"</string>
-
-  <string name="s_minion">" %s миньон"</string>
-
-  <string name="s_most_backward">" %s самый отсталый"</string>
-
-  <string name="s_most_forward">" %s наиболее вперед"</string>
-
-  <string name="s_nearest">" %s ближайший"</string>
-
-  <string name="s_physics">" %s физика"</string>
-
-  <string name="s_random">" %s случайный"</string>
-
-  <string name="s_s_s">%1$S %2$S %3$s</string>
-
-  <string name="s_s_target">%1$S %2$s</string>
-
-  <string name="s_unknown_type">" %s неизвестный тип"</string>
-
-  <string name="s1_front_s2_s3">%1$s фронт %2$s %3$s</string>
-
-  <string name="s1_front_s2_s3_in_range_d4">" %1$s front %2$s %3$s в диапазоне [ %4$d]"</string>
-
-  <string name="s1_front_s2_target_in_range_d3">"Цель %1$s перед %2$s в диапазоне [ %3$d]"</string>
-
-  <string name="s1_s2_and_deal_s3_damage_per_second_for_s4_sec">%1$s %2$s и наносит %3$s урона в секунду в течение %4$s sec</string>
-
-  <string name="s1_s2_for_s3_sec">%1$s %2$s для %3$s sec</string>
-
-  <string name="s1_s2_s3_in_range_d4">%3$s %1$s %2$s в диапазоне [ %4$d]</string>
-
-  <string name="s1_s2_s3_s4_s5_during_break">%1$s %2$s %3$s %4$s %5$s во время перерыва</string>
-
-  <string name="s1_s2_s3_s4_s5_for_s6_sec">" %1$s %5$s из %2$s от %3$s %4$s для %6$s sec"</string>
-
-  <string name="s1_s2_target_in_range_d3">%1$s %2$s цель в диапазоне [ %3$d]</string>
-
-  <string name="s1_s2_targets_in_range_d3">%1$s %2$s цели в диапазоне [ %3$d]</string>
-
-  <string name="s1_targets_in_range_d2">%1$s целей в диапазоне [ %2$d]</string>
-
-  <string name="s1_to_s2">От %1$s до %2$s</string>
-
-  <string name="Scout_and_change_the_perspective_on_s">Разведывай и меняй POV на %s</string>
-
-  <string name="Seal">Печать</string>
-
-  <string name="second">"второй"</string>
-
-  <string name="self">сами</string>
-
-  <string name="separator">,</string>
-
-  <string name="Set_a_countdown_timer_on_s1_trigger_effect_d2_after_s3_sec">Установите таймер обратного отсчета для %1$s триггерного эффекта %2$d через %3$s sec</string>
-
-  <string name="setting_about">О программе</string>
-
-  <string name="setting_app_version">Версия приложения</string>
-
-  <string name="setting_appearance">Внешний вид</string>
-
-  <string name="setting_db_version">Версия БД</string>
-
-  <string name="setting_enable">Показать уведомление</string>
-
-  <string name="setting_kill_expression_summary">Показать формулу для действия</string>
-
-  <string name="setting_kill_expression_title">Формула расчета навыка</string>
-
-    <string name="setting_language_dialog_title">Язык</string>
-
-  <string name="setting_re_download_db">Повторно скачать БД</string>
-
-  <string name="setting_re_download_db_summary">Повторно скачать БД</string>
-
-  <string name="setting_system">Системные</string>
-
-  <string name="shiori_hard">"Эвент хард 2 часть: "</string>
-
-  <string name="shiori_normal">"Эвент нормал 2 часть: "</string>
-
-  <string name="short_clanBattle">"Krabat "</string>
-
-  <string name="short_dungeon_s">Dungeon x %s</string>
-
-  <string name="short_exploration_s">Exploring x %s</string>
-
-  <string name="short_hard_s">Hard x %s</string>
-
-  <string name="short_master_coin_s">MCoin x %s</string>
-
-  <string name="short_normal_drop_s">Normal x %s</string>
-
-  <string name="short_shrine_s">Shrine x %s</string>
-
-  <string name="short_temple_s">Temple x %s</string>
-
-  <string name="short_very_hard_s">VHard x %s</string>
-
-  <string name="shrine">"Святилище: "</string>
-
-  <string name="Silence">безмолвие</string>
-
-  <string name="Silence_s1_with_s2_chance_for_s3_sec">Тишина %1$s с вероятностью %2$s %% в течение %3$s sec</string>
-
-  <string name="Sleep">Спать</string>
-
-  <string name="Slow">Медленный</string>
-
-  <string name="SLv">SLv</string>
-
-  <string name="snack_bar_cant_sort">Опция сортировки недоступна</string>
-
-  <string name="Stealth_for_s_sec">Стелс на %s сек</string>
-
-  <string name="Stun">Оглушение</string>
-
-  <string name="Summon_a_field_of_radius_d1_at_position_of_s2_to_deal_s3_s4_damage_per_second_for_s5_sec">Вызовите поле радиуса %1$d в позиции %2$s, чтобы нанести %3$s %4$s урона в секунду в течение %5$s sec.</string>
-
-  <string name="Summon_a_field_of_radius_d1_at_position_of_s2_to_s3_s4_s5_for_s6_sec">Вызвать поле радиуса %1$d в позиции от %2$s до %3$s %4$s %5$s на %6$s sec</string>
-
-  <string name="Summon_a_field_of_radius_d1_on_s2_to_cast_effect_d3_for_s4_sec">Вызовите поле радиуса %1$d на %2$s, чтобы применить эффект %3$d на %4$s sec.</string>
-
-  <string name="Summon_a_field_of_radius_d1_to_deal_s2_s3_damage_per_second_for_s4_sec_to_s5">Призвать поле радиуса %1$d, чтобы наносить %2$s %3$s урона в секунду на %4$s sec до %5$s</string>
-
-  <string name="Summon_a_field_of_radius_d1_to_s2_s3_s4_s5_for_s6_sec">Вызовите поле с радиусом от %1$d до %2$s %3$s %4$s %5$s на %6$s sec</string>
-
-  <string name="Summon_a_healing_field_of_radius_d1_at_position_of_s2_to_heal_s3_s4_HP_per_second_for_s5_sec">Вызвать поле исцеления с радиусом %1$d в позиции %2$s, чтобы исцелить %3$s %4$s HP в секунду на %5$s sec</string>
-
-  <string name="Summon_a_healing_field_of_radius_d1_to_heal_s2_s3_s4_HP_per_second_for_5s_sec">Вызвать исцеляющее поле радиуса %1$d, чтобы исцелить %2$s %3$s %4$s HP в секунду на %5$s sec</string>
-
-  <string name="tab_phase">"Фаза"</string>
-
-  <string name="target">"цель"</string>
-
-  <string name="targets">"цели"</string>
-
-  <string name="targets_of_effect_d">"цель [часть %d]"</string>
-
-  <string name="targets_of_last_effect">предыдущая цель действия</string>
-
-  <string name="targets_those_damaged_by_effect_d">цели, затронутые [часть %d]</string>
-
-  <string name="targets_within_the_scope">цель в пределах досягаемости</string>
-
-  <string name="temple">"Храм: "</string>
-
-  <string name="text_accuracy">Точность</string>
-
-  <string name="text_age">Возраст</string>
-
-  <string name="text_attack_pattern">Цикличность атаки</string>
-
-  <string name="text_birth_date">Дата рождения</string>
-
-  <string name="text_blood_type">Группа крови</string>
-
-  <string name="text_cast_time">"Время каста: "</string>
-
-  <string name="text_catch_copy">Фраза</string>
-
-  <string name="text_condition_and">Все предметы</string>
-
-  <string name="text_condition_andor">Некоторые предметы</string>
-
-  <string name="text_condition_or">Один предмет</string>
-
-  <string name="text_copy">копировать</string>
-
-  <string name="text_copy_finished">копирование завершено</string>
-
-  <string name="text_day">Д</string>
-
-  <string name="text_delete">удалить</string>
-
-  <string name="text_deney">отмена</string>
-
-  <string name="text_dodge">Уклонение</string>
-
-  <string name="text_drop_rarity">Уровень редкости: %s</string>
-
-  <string name="text_energy_recovery">Восстановление ТП</string>
-
-  <string name="text_energy_reduce">Снижение стоимости</string>
-
-  <string name="text_favorite">Любимец</string>
-
-  <string name="text_guild">Гильдия</string>
-
-  <string name="text_height">Высота</string>
-
-  <string name="text_hp">Здоровье</string>
-
-  <string name="text_hp_recovery">Восстановление HP</string>
-
-  <string name="text_life_steal">Кража жизни</string>
-
-  <string name="text_log_clean">очистить журнал</string>
-
-  <string name="text_magical_atk">Маг аткака</string>
-
-  <string name="text_magical_crt">Маг крит</string>
-
-  <string name="text_magical_def">Маг защита</string>
-
-  <string name="text_magical_penetrate">Маг пробитие</string>
-
-  <string name="text_month">"М"</string>
-
-  <string name="text_normal_attack_cast_time">Обычное время атаки: %ss</string>
-
-  <string name="text_normal_attack_only">Только нормальная атака</string>
-
-  <string name="text_normal_mode">Нормальный режим</string>
-
-  <string name="text_physical_atk">Физ атака</string>
-
-  <string name="text_physical_crt">Физ крит</string>
-
-  <string name="text_physical_def">Физ защита</string>
-
-  <string name="text_physical_penetrate">Физ пробитие</string>
-
-  <string name="text_please_download_db">Пожалуйста, скачайте дб</string>
-
-  <string name="text_profile">Профиль</string>
-
+    <string name="app_name">ShizuruNotes</string>
+    <string name="app_full_name">ShizuruNotes</string>
+    <string name="title_chara_list">Персонажи</string>
+    <string name="title_clan_battle">КВ</string>
+    <string name="title_menu">Меню</string>
+    <string name="title_minion">minion</string>
+    <string name="title_enemy">Враги</string>
+    <string name="setting_language_dialog_title">Language</string>
+    <string name="setting_kill_expression_title">Формула расчета навыка</string>
+    <string name="setting_kill_expression_summary">Показать формулу для действия навыка</string>
+    <string name="setting_appearance">Внешний вид</string>
+    <string name="setting_system">Система</string>
+    <string name="setting_db_version">Версия Базы</string>
+    <string name="setting_app_version">Версия Приложения</string>
+    <string name="db_update_dialog_title">Обновление базы данных</string>
+    <string name="db_update_dialog_text">У меня есть новая версия базы данных, обновить сейчас?</string>
+    <string name="db_update_dialog_confirm">Обновить</string>
+    <string name="db_update_dialog_cancel">Позже</string>
+    <string name="db_update_progress_title">Обновление базы данных</string>
+    <string name="db_update_progress_text">Обновление</string>
+    <string name="db_update_finished_title">Обновление базы данных завершено</string>
+    <string name="db_update_download_finished_text">Загрузка завершена, распаковка </string>
+    <string name="db_update_finished_text">Обновление завершено</string>
+    <string name="db_update_check_failed">Проверка обновления базы данных не удалась</string>
+    <string name="db_update_failed">Обновление базы данных не удалось</string>
+    <string name="app_update_check_failed">Не удалось проверить обновление приложения</string>
+    <string name="ui_text_filter">Условия поиска</string>
+    <string name="ui_text_position">Позиция</string>
+    <string name="ui_text_atk_type">Атака</string>
+    <string name="ui_text_sort">Сортировка</string>
+    <string name="ui_text_all">Все</string>
+    <string name="ui_chip_position_forward">Спереди</string>
+    <string name="ui_chip_position_middle">Середина</string>
+    <string name="ui_chip_position_rear">Сзади</string>
+    <string name="ui_chip_atk_type_physical">Физическая</string>
+    <string name="ui_chip_atk_type_magical">Магическая</string>
+    <string name="ui_btn_reset">Сбросить</string>
+    <string name="ui_chip_any">ALL</string>
+    <string name="ui_chip_sort_new">Новые</string>
+    <string name="ui_chip_sort_position">Позиция</string>
+    <string name="ui_chip_sort_physical_atk">Физ атака</string>
+    <string name="ui_chip_sort_magical_atk">Маг атака</string>
+    <string name="ui_chip_sort_physical_def">Физ защита</string>
+    <string name="ui_chip_sort_magical_def">Маг защита</string>
+    <string name="ui_chip_sort_age">Возраст</string>
+    <string name="ui_chip_sort_height">Рост</string>
+    <string name="ui_chip_sort_weight">Вес</string>
+    <string name="ui_chip_sort_burst_size">Размер груди</string>
+    <string name="ui_chip_sort_way_up">По возрастанию</string>
+    <string name="ui_chip_sort_way_down">По убыванию</string>
+    <string name="ui_switch_change_value">Переключить значения</string>
+    <string name="snack_bar_cant_sort">Сортировака по этим данным еще не возможна из-за недостатка данных</string>
+    <string name="button_minion_info">Информация по мобам</string>
+    <string name="text_normal_attack_only">Только нормальная атака</string>
+    <string name="tab_phase">"Фаза "</string>
+    <string name="text_year">" г "</string>
+    <string name="text_month">" м "</string>
+    <string name="text_day">" д "</string>
+    <string name="text_status">Параметр состояния</string>
+    <string name="text_physical_atk">Физическая атака</string>
+    <string name="text_magical_atk">Магическая атака</string>
+    <string name="text_physical_crt">Физический крит</string>
+    <string name="text_magical_crt">Магический крит</string>
+    <string name="text_physical_def">Физическая защита</string>
+    <string name="text_magical_def">Магическая защита</string>
+    <string name="text_hp"> HP </string>
+    <string name="text_life_steal">Поглощение HP</string>
+    <string name="text_energy_recovery">ТП реген</string>
+    <string name="text_energy_reduce">Снижение ТП коста</string>
+    <string name="text_accuracy">Точность</string>
+    <string name="text_dodge">Уклонение</string>
+    <string name="text_wave_hp_recovery">Хп после боя</string>
+    <string name="text_wave_energy_recovery">Тп после боя</string>
+    <string name="text_physical_penetrate">Физическое пробитие</string>
+    <string name="text_magical_penetrate">Магическое пробитие</string>
+    <string name="text_hp_recovery">Восстановление ХП</string>
+    <string name="text_search_area_width">Диапазон поиска</string>
+    <string name="text_status_tips">* Вышеуказанный статус включает в себя MAX, LvMAX, оснащение, полное улучшение экипировки, статус истории и умение Ex.</string>
+    <string name="text_attack_pattern">Шаблон атаки</string>
+    <string name="text_normal_mode">Нормальный режим</string>
+    <string name="text_cast_time">Время каста:</string>
+    <string name="text_skill_action">Skill action</string>
+    <string name="text_profile">Профиль</string>
+    <string name="text_age">Возраст</string>
+    <string name="text_guild">Гильдия</string>
     <string name="text_race">Раса</string>
-
-  <string name="text_rank">Ранг</string>
-
-  <string name="text_resist_data">Данные о сопротивлении</string>
-
-  <string name="text_search_area_width">"Диапазон атаки "</string>
-
-  <string name="text_self_text">Представление</string>
-
-  <string name="text_skill_action">Действие</string>
-
-  <string name="text_status">Характеристики</string>
-
-  <string name="text_status_tips">* Все значения статуса, показанные выше, учитывают максимальную прокачку всего</string>
-
-  <string name="text_wave_energy_recovery">Тп после волны</string>
-
-  <string name="text_wave_hp_recovery">Хп после волны</string>
-
-  <string name="text_weight">Вес</string>
-
-  <string name="text_year">Г</string>
-
-  <string name="the_farthest">"самый дальний"</string>
-
-  <string name="the_highest_ATK">"самый высокий АТК"</string>
-
-  <string name="the_highest_HP_ratio">"самый высокий HP"</string>
-
-  <string name="the_highest_Magic_STR">"Высшая Магия СТР"</string>
-
-  <string name="the_highest_TP">"самый высокий TP"</string>
-
-  <string name="the_lowest_ATK">"самый низкий АТК"</string>
-
-  <string name="the_lowest_HP_ratio">"самый низкий HP"</string>
-
-  <string name="the_lowest_Magic_STR">"Самая низкая Магия STR"</string>
-
-  <string name="the_lowest_TP">"самый низкий TP"</string>
-
-  <string name="the_most_backward">"самый отсталый"</string>
-
-  <string name="the_most_forward">"самый передовой"</string>
-
-  <string name="the_nearest">"рядом, поблизости "</string>
-
-  <string name="the_s_farthest">" %s самый дальний"</string>
-
-  <string name="the_s_highest_ATK">" %s самый высокий ATK"</string>
-
-  <string name="the_s_highest_HP_ratio">" %s самое высокое соотношение HP"</string>
-
-  <string name="the_s_highest_Magic_STR">" %s наивысшая Магия STR"</string>
-
-  <string name="the_s_highest_TP">%s самый высокий TP</string>
-
-  <string name="the_s_lowest_ATK">" %s самый низкий ATK"</string>
-
-  <string name="the_s_lowest_HP_ratio">" %s самое низкое соотношение HP"</string>
-
-  <string name="the_s_lowest_Magic_STR">" %s самая низкая Магия STR"</string>
-
-  <string name="the_s_lowest_TP">%s самый низкий TP</string>
-
-  <string name="the_s_most_backward">" %s самый отсталый"</string>
-
-  <string name="the_s_most_forward">" %s наиболее вперед"</string>
-
-  <string name="the_s_nearest">" %s ближайший"</string>
-
-  <string name="the_s_unknown_type">" %s неизвестный тип"</string>
-
-  <string name="third">"в третьих "</string>
-
-  <string name="three">"три "</string>
-
-  <string name="title_calendar">Календарь</string>
-
-  <string name="title_chara_list">Персонажи</string>
-
-  <string name="title_clan_battle">Крабат</string>
-
-  <string name="title_dungeon">Подземелье</string>
-
-  <string name="title_enemy">Враги</string>
-
-  <string name="title_equipment">Экипировка</string>
-
-  <string name="title_log">Отчеты</string>
-
-  <string name="title_menu">Меню</string>
-
-  <string name="title_minion">Миньоны</string>
-
-  <string name="title_notification_setting">Настройки уведомлений</string>
-
-  <string name="title_quest">Задания</string>
-
-  <string name="title_setting">Настройки</string>
-
-  <string name="today_summary">cегодня</string>
-
-  <string name="tower">"Luna "</string>
-
-  <string name="TP">TP</string>
-
-  <string name="Trigger_d_on_all_targets_break">Триггер: активируется, когда все детали сломаны.</string>
-
-  <string name="Trigger_d_on_critical_damaged">Триггер: %d при критическом повреждении</string>
-
-  <string name="Trigger_d_on_damaged">Триггер: %d на поврежден</string>
-
-  <string name="Trigger_d_on_dead">Триггер: %d на мертвом</string>
-
-  <string name="Trigger_d_on_dot_damaged">Триггер: %d на точке поврежден</string>
-
-  <string name="Trigger_d_on_stealth">Триггер: %d на скрытности</string>
-
-  <string name="Trigger_d1_on_break_and_last_for_s2_sec">Триггер: активируется с вероятностью [ %1$d %%] при поломке, длительность [ %2$s] секунд.</string>
-
-  <string name="Trigger_HP_is_below_d">Триггер: HP ниже %d %%</string>
-
-  <string name="Trigger_Left_time_is_below_s_sec">Триггер: оставшееся время меньше %s сек</string>
-
-  <string name="two">"два "</string>
-
-  <string name="ui_btn_reset">Сброс</string>
-
-  <string name="ui_chip_any">Любые</string>
-
-  <string name="ui_chip_atk_type_magical">Маг</string>
-
-  <string name="ui_chip_atk_type_physical">Физ</string>
-
-  <string name="ui_chip_position_forward">Перед</string>
-
-  <string name="ui_chip_position_middle">Центр</string>
-
-  <string name="ui_chip_position_rear">Зад</string>
-
-  <string name="ui_chip_sort_age">Возраст</string>
-
-  <string name="ui_chip_sort_burst_size">Бюст</string>
-
-  <string name="ui_chip_sort_height">Высота</string>
-
-  <string name="ui_chip_sort_magical_atk">Маг Атака</string>
-
-  <string name="ui_chip_sort_magical_def">Маг защита</string>
-
-  <string name="ui_chip_sort_new">Новый</string>
-
-  <string name="ui_chip_sort_physical_atk">Физ Атака</string>
-
-  <string name="ui_chip_sort_physical_def">Физ защита</string>
-
-  <string name="ui_chip_sort_position">Позиция</string>
-
-  <string name="ui_chip_sort_way_down">По убыванию</string>
-
-  <string name="ui_chip_sort_way_up">По возрастанию</string>
-
-  <string name="ui_chip_sort_weight">Вес</string>
-
-  <string name="ui_switch_change_value">Изменить значение</string>
-
-  <string name="ui_text_all">Все</string>
-
-  <string name="ui_text_atk_type">Атака</string>
-
-  <string name="ui_text_filter">Фильтр</string>
-
-  <string name="ui_text_position">Позиция</string>
-
-  <string name="ui_text_sort">Сортировать</string>
-
-  <string name="unknown">"неизвестный"</string>
-
-  <string name="Unknown">неизвестный</string>
-
-  <string name="Unknown_Effect">Неизвестный эффект</string>
-
-  <string name="Unknown_effect_d1_to_s2_with_details_s3_values_s4">Неизвестный эффект от %1$d до %2$s с деталями %3$s значения %4$s</string>
-
-  <string name="use_d_after_break">использовать [ %d] после перерыва</string>
-
-  <string name="use_d_after_time_up">использовать [ %d] после истечения времени</string>
-
-  <string name="use_d1_if_among_s2_does_not_exists_unit_ID_d3">использовать [ %1$d], если среди %2$s не существует идентификатор объекта %3$d</string>
-
-  <string name="use_d1_if_among_s2_exists_unit_ID_d3">использовать [ %1$d], если среди %2$s существует идентификатор объекта %3$d</string>
-
-  <string name="use_d1_if_s2_has_any_dot_debuff">использовать [ %1$d], если %2$s имеет точечный дебафф</string>
-
-  <string name="use_d1_if_s2_has_no_dot_debuff">использовать [ %1$d], если у %2$s нет точечного дебаффа</string>
-
-  <string name="use_d1_if_s2_is_alone">использовать [ %1$d], если %2$s один</string>
-
-  <string name="use_d1_if_s2_is_in_state_of_ID_d3_with_stacks_greater_than_or_equal_to_d4">когда бафф [ID: %3$d] имеет ≥ %4$d стеков, используйте [part %1$d]</string>
-
-  <string name="use_d1_if_s2_is_not_alone">использовать [ %1$d], если %2$s не одинок</string>
-
-  <string name="use_d1_if_s2_is_not_in_state_of_ID_d3_with_stacks_greater_than_or_equal_to_d4">если количество стеков меньше, чем %4$d, используется [part %1$d]</string>
-
-  <string name="use_d1_if_the_count_of_s2_except_stealth_units_is_d3">использовать [ %1$d], если количество %2$s, кроме невидимых единиц, равно %3$d</string>
-
-  <string name="use_d1_if_the_count_of_s2_except_stealth_units_is_not_d3">использовать [ %1$d], если число %2$s, кроме единиц хитрости, не %3$d</string>
-
-  <string name="use_d1_to_s2_if_HP_is_below_d">Если HP %2$s меньше [ %3$d %%], используйте [part %1$d].</string>
-
-  <string name="use_d1_to_s2_if_HP_is_not_below_d">Если HP %2$s выше, чем [ %3$d %%], используйте [part %1$d].</string>
-
-  <string name="use_d1_to_s2_if_it_is_alone">использовать [ %1$d] для %2$s, если он один</string>
-
-  <string name="use_d1_to_s2_if_it_is_not_alone">использовать [ %1$d] для %2$s, если он не один</string>
-
-  <string name="use_d1_to_s2_if_not_in_state_of_ID_d3">если нет положительного эффекта [ID: %3$d], используйте [part %1$d]</string>
-
-  <string name="use_d1_to_s2_if_not_s3">использовать [ %1$d] для %2$s, если не %3$s</string>
-
-  <string name="use_d1_to_s2_if_s3">использовать [ %1$d] для %2$s, если %3$s</string>
-
-  <string name="use_d1_to_s2_in_state_of_ID_d3">Если есть положительный эффект [ID: %3$d], используйте [part %1$d]</string>
-
-  <string name="venomed">venomed</string>
-
-  <string name="very_hard">"ОчТяжелый: "</string>
-
-  <string name="Violent_Poison">Ядовитый яд</string>
-
-  <string name="Wave_Energy_Recovery">Тп после волны</string>
-
-  <string name="Wave_HP_Recovery">Здоровье после волны</string>
-
-  <string name="When_s1_HP_reaches_0_restore_s2_HP_once_in_next_s3_sec">Когда %1$s HP достигнет 0, восстановите %2$s HP один раз в следующие %3$s sec.</string>
-
-  <string name="When_s1_receive_healing_deal_s2_healing_amount_damage_instead_last_for_s3_sec_or_unlimited_time_if_triggered_by_field">Когда %1$s получает исцеляющее заклинание, %2$s наносит максимальный урон, но длится %3$s sec или неограниченное время, если срабатывает по полю</string>
-  <string name="db_update_dialog_text">Доступна новая версия БД</string>
-  <string name="hatsune_last_hour_title">Уведомление за последний час</string>
-  <string name="hatsune_last_title">Уведомление о конце дня</string>
-  <string name="dungeon_before_title">Подземелье за день до уведомления</string>
-  <string name="text_drop_mana">Выпадение маны: %d</string>
-  <string name="Cast_a_barrier_on_s1_to_reduce_damage_over_s2_with_coefficient_s3_the_greater_the_less_reduced_amount_for_s4_s">Применяет щит на %1$s, который уменьшает урон, взятый на %3$s. Общее поглощенное количество %2$s. Время [ %4$s] сек.</string>
-  <string name="icon_previous">Последний выбор</string>
-
+    <string name="text_height">Рост</string>
+    <string name="text_weight">Вес</string>
+    <string name="text_birth_date">День рожденья</string>
+    <string name="text_blood_type">Тип крови</string>
+    <string name="text_favorite">Любимое</string>
+    <string name="text_cv">CV</string>
+    <string name="text_catch_copy">catch copy</string>
+    <string name="text_self_text">Само введение</string>
+    <string name="text_normal_attack_cast_time">Время нормальной атаки：%ss</string>
+    <string name="text_rank">Rank</string>
+    <string name="text_please_download_db">Скачать базу данных</string>
+    <string name="text_resist_data">resist data</string>
+    <string name="ATK">ATK</string>
+    <string name="DEF">DEF</string>
+    <string name="Dodge">Dodge</string>
+    <string name="Energy_Recovery_Rate">TP recovery</string>
+    <string name="Energy_Reduce_Rate">TP снижение затрат</string>
+    <string name="HP">HP</string>
+    <string name="TP">TP</string>
+    <string name="HP_Recovery_Rate">Восстановление здоровья</string>
+    <string name="Life_Steal">Лайф лич</string>
+    <string name="Magic_Critical">Магический Крит</string>
+    <string name="Magic_DEF">Магический Деф</string>
+    <string name="Magic_Penetrate">Магическая Пенетра</string>
+    <string name="Magic_STR">Магическая Сила</string>
+    <string name="Physical_Critical">Физический Крит</string>
+    <string name="Physical_Penetrate">Физическая Пенетра</string>
+    <string name="Wave_Energy_Recovery">TP после боя</string>
+    <string name="Wave_HP_Recovery">HP после боя</string>
+    <string name="Accuracy">Точность</string>
+    <string name="Unknown">Неизвестно</string>
+    <string name="SLv">S Lv</string>
+    <string name="loop_start">Начало цикла</string>
+    <string name="loop_end">Конец цикла</string>
+    <string name="hit">Удар</string>
+    <string name="union_burst">UB</string>
+    <string name="union_burst_evo">UB+</string>
+    <string name="main_skill_1">Main 1</string>
+    <string name="main_skill_2">Main 2</string>
+    <string name="main_skill_3">Main 3</string>
+    <string name="main_skill_4">Main 4</string>
+    <string name="main_skill_5">Main 5</string>
+    <string name="main_skill_6">Main 6</string>
+    <string name="main_skill_7">Main 7</string>
+    <string name="main_skill_8">Main 8</string>
+    <string name="main_skill_9">Main 9</string>
+    <string name="main_skill_10">Main 10</string>
+    <string name="main_skill_1_evo">Main 1+</string>
+    <string name="main_skill_2_evo">Main 2+</string>
+    <string name="sp_skill_1">SP 1</string>
+    <string name="sp_skill_2">SP 2</string>
+    <string name="sp_skill_3">SP 3</string>
+    <string name="sp_skill_4">SP 4</string>
+    <string name="sp_skill_5">SP 5</string>
+    <string name="ex_skill_1">EX 1</string>
+    <string name="ex_skill_2">EX 2</string>
+    <string name="ex_skill_3">EX 3</string>
+    <string name="ex_skill_4">EX 4</string>
+    <string name="ex_skill_5">EX 5</string>
+    <string name="ex_skill_1_evo">EX 1+</string>
+    <string name="ex_skill_2_evo">EX 2+</string>
+    <string name="ex_skill_3_evo">EX 3+</string>
+    <string name="ex_skill_4_evo">EX 4+</string>
+    <string name="ex_skill_5_evo">EX 5+</string>
+    <string name="enemy">Вражеский</string>
+    <string name="friendly">Дружеский</string>
+    <string name="both_sides">Обе стороны</string>
+    <string name="first">"Первый "</string>
+    <string name="second">Второй</string>
+    <string name="third">Третий</string>
+    <string name="fourth">"Четвертый "</string>
+    <string name="fifth">Пятый</string>
+    <string name="unknown">Неизвестно</string>
+    <string name="random">Случайно</string>
+    <string name="the_nearest">Ближайший</string>
+    <string name="the_farthest">Дальний</string>
+    <string name="the_lowest_HP_ratio">Наименьшее хп</string>
+    <string name="the_highest_HP_ratio">Наибольшее хп</string>
+    <string name="self">Себя</string>
+    <string name="the_most_backward">Самый задний</string>
+    <string name="the_most_forward">Самый передний</string>
+    <string name="targets_within_the_scope">Цель в пределах диапазона</string>
+    <string name="the_highest_TP">"С наибольшим ТП "</string>
+    <string name="the_lowest_TP">С наименьшим ТП</string>
+    <string name="the_highest_ATK">Высшая физическая атака</string>
+    <string name="the_lowest_ATK">Низшая физическая атака</string>
+    <string name="the_highest_Magic_STR">Наибольшая магическая сила</string>
+    <string name="the_lowest_Magic_STR">Наименьшая магическая сила</string>
+    <string name="minion">Врага</string>
+    <string name="physics">Физический</string>
+    <string name="magic">Магический</string>
+    <string name="random_minion">Случайный враг</string>
+    <string name="random_self_minion">Себя</string>
+    <string name="boss">босс</string>
+    <string name="one">"Одного "</string>
+    <string name="two">Двух</string>
+    <string name="three">Трех</string>
+    <string name="four">Четырех</string>
+    <string name="all">Всех</string>
+    <string name="target">Цель</string>
+    <string name="targets">Цели</string>
+    <string name="front">Передняя линия</string>
+    <string name="front_including_self">Передняя линия включая себя</string>
+    <string name="front_and_back">Спереди и сзади</string>
+    <string name="s_unknown_type">Неизвестный тип %s</string>
+    <string name="s_nearest">Ближайший %s</string>
+    <string name="s_farthest">Самый дальний %s</string>
+    <string name="s_lowest_HP_ratio">Наименьшее хп %s</string>
+    <string name="s_highest_HP_ratio">Наибольшее хп %s</string>
+    <string name="s_most_backward">Самый задний %s</string>
+    <string name="s_most_forward">Самый передний %s</string>
+    <string name="s_highest_TP">Наибольшее ТП %s</string>
+    <string name="s_lowest_TP">Наименьшее ТП %s</string>
+    <string name="s_highest_ATK">Наимбольшая атака %s</string>
+    <string name="s_lowest_ATK">Наименьшая атака %s</string>
+    <string name="s_highest_Magic_STR">Наибольшая магическая атака %s</string>
+    <string name="s_lowest_Magic_STR">Наименьшая магическая атака %s</string>
+    <string name="s_random">Случайный %s</string>
+    <string name="s_minion">%s minion</string>
+    <string name="s_physics">физический %s</string>
+    <string name="s_magic">магический %s</string>
+    <string name="s_boss">босс %s</string>
+    <string name="the_s_unknown_type">%s неизвестный тип</string>
+    <string name="the_s_nearest">%s Ближайший</string>
+    <string name="the_s_farthest">%s Самый дальний</string>
+    <string name="the_s_lowest_HP_ratio">Уровень здоровья %s низкое</string>
+    <string name="the_s_highest_HP_ratio">Урвоенб здоровья %s высокое</string>
+    <string name="the_s_most_backward">%s Задний</string>
+    <string name="the_s_most_forward">%s Передний</string>
+    <string name="the_s_highest_TP">TP %s Наибольшее</string>
+    <string name="the_s_lowest_TP">TP %s Наименьшее</string>
+    <string name="the_s_highest_ATK">Физическая атака %s Наибольшая</string>
+    <string name="the_s_lowest_ATK">Физическая атака %s Наименьшая</string>
+    <string name="the_s_highest_Magic_STR">"Магическая атака %s Наибольшая "</string>
+    <string name="the_s_lowest_Magic_STR">Магическая атака %s Наименьшая</string>
+    <string name="targets_those_damaged_by_effect_d">[アクション%d]にダメージを与えられたターゲット</string>
+    <string name="targets_of_effect_d">[アクション%d]のターゲット</string>
+    <string name="targets_of_last_effect">Цель последнего эффекта</string>
+    <string name="all_s_targets">%s все</string>
+    <string name="all_s_s_targets">%2$s%1$s все</string>
+    <string name="s_s_target">%1$s%2$s</string>
+    <string name="s_s_s">%1$s%2$s%3$s</string>
+    <string name="all_front_enemy_targets">Всех врагов спереди</string>
+    <string name="all_front_including_self_friendly_targets">Всех перед собой включая себя</string>
+    <string name="all_front_targets">Перед собой</string>
+    <string name="all_front_s_enemy_targets">перед собой %s всех врагов</string>
+    <string name="all_front_including_self_s_friendly_targets">%s все союзники впереди, включая вас самих</string>
+    <string name="all_front_s_targets">%s все цели впереди</string>
+    <string name="s1_targets_in_range_d2">от [%2$d] до %1$s</string>
+    <string name="front_s1_targets_in_range_d2">%1$s в диапазоне вперед [%2$d]</string>
+    <string name="s1_s2_targets_in_range_d3">범위 [%3$d]안의 %2$s%1$s</string>
+    <string name="s1_s2_target_in_range_d3">%1$s%2$s в диапазоне [%3$d]</string>
+    <string name="s1_s2_s3_in_range_d4">%1$s%2$s%3$s в диапазоне [%4$d]</string>
+    <string name="front_s1_s2_targets_in_range_d3">%2$s%1$s в диапазоне вперед [%3$d]</string>
+    <string name="s1_front_s2_target_in_range_d3">%1$s%2$s в прямом диапазоне [%3$d]</string>
+    <string name="s1_front_s2_s3_in_range_d4">%1$s%2$s%3$s в диапазоне вперед [%4$d]</string>
+    <string name="s1_to_s2">От%1$s до%2$s</string>
+    <string name="s1_front_s2_s3">Нападающий %1$s%2$s%3$s</string>
+    <string name="any_of_s">(По цели) Любая цель среди %s</string>
+    <string name="Unknown_effect_d1_to_s2_with_details_s3_values_s4">Неизвестное влияние на %2$s [%1$d], содержание %3$s, параметр %4$s.</string>
+    <string name="magical">Магический</string>
+    <string name="physical">Физический</string>
+    <string name="inevitable_physical">inevitable_physical</string>
+    <string name="Deal_s1_s2_damage_to_s3">%3$sに [%1$s] の%2$sダメージを与える。</string>
+    <string name="Deal_s1_s2_damage_to_s3_and_this_attack_is_ensured_critical">%3$sに [%1$s] の%2$sダメージを与える。このアクションは必ずクリティカルする。</string>
+    <string name="Critical_damage_is_s_times_as_normal_damage">Если критический, урон умножается на [%s].</string>
+    <string name="Change_self_position_to_s_then_return">Переместитесь в положение %s, вернитесь в исходное положение после завершения навыка.</string>
+    <string name="Change_self_position_s_forward_then_return">Двигайтесь вперед [%s] и возвращайтесь в исходное положение после завершения навыка.</string>
+    <string name="Change_self_position_s_backward_then_return">Вернитесь на [%s] и вернитесь в исходное положение после завершения навыка.</string>
+    <string name="Change_self_position_to_s">Переместиться в положение %s.</string>
+    <string name="Change_self_position_s_forward">Двигаться вперед [%s].</string>
+    <string name="Change_self_position_s_backward">Вернитесь назад [%s].</string>
+    <string name="Move_to_s1_in_front_of_s2_with_velocity_s3_sec">Переместитесь в положение [%1$s] до %2$s со скоростью [%3$s].</string>
+    <string name="Move_to_s1_behind_of_s2_with_velocity_s3_sec">Переместитесь в положение [%1$s] позади %2$s со скоростью [%3$s].</string>
+    <string name="Move_forward_s1_with_velocity_s2_sec">Двигайтесь вперед [%1$s] со скоростью [%2$s].</string>
+    <string name="Move_backward_s1_with_velocity_s2_sec">Переместиться назад [%1$s] со скоростью [%2$s].</string>
+    <string name="Knock_s1_up_d2">%1$sをノックアップする、高度 [%2$d]。</string>
+    <string name="Knock_s1_away_d2">%1$s를 넉백한다. 거리[%2$d]。</string>
+    <string name="Draw_s1_toward_self_d2">%1$s를 끌어당긴다. 거리[%2$d]。</string>
+    <string name="Restore_s1_s2_s3_HP">%1$s의 HP를 [%2$s%3$s]회복시킨다.</string>
+    <string name="Cast_an_unknown_barrier_d1_on_s2_for_s3_sec">%2$s에 타입[%1$d]의 배리어를 적용한다. 지속시간 [%3$s]초.</string>
+    <string name="Cast_a_barrier_on_s1_to_nullify_s2_physical_damage_for_s3_sec">%1$s에[%2$s]데미지 상당의 물리무효 배리어를 적용한다. 지속시간 [%3$s]초.</string>
+    <string name="Cast_a_barrier_on_s1_to_nullify_s2_magical_damage_for_s3_sec">%1$s에[%2$s]데미지 상당의 마법무효 배리어를 적용한다. 지속시간 [%3$s]초.</string>
+    <string name="Cast_a_barrier_on_s1_to_absorb_s2_physical_damage_for_s3_sec">%1$s에[%2$s]데미지 상당의 물리흡수 배리어를 적용한다. 지속시간 [%3$s]초.</string>
+    <string name="Cast_a_barrier_on_s1_to_absorb_s2_magical_damage_for_s3_sec">%1$s에[%2$s]데미지 상당의 마법흡수 배리어를 적용한다. 지속시간 [%3$s]초.</string>
+    <string name="Cast_a_barrier_on_s1_to_absorb_s2_physical_and_magical_damage_for_s3_sec">%1$sに[%2$s]데미지 상당의 물리&amp;마법흡수배리어를 적용한다. 지속시간 [%3$s]초.</string>
+    <string name="Cast_a_barrier_on_s1_to_nullify_s2_physical_and_magical_damage_for_s3_sec">%1$sに[%2$s]데미지 상당의 물리&amp;마법무효 배리어를 적용한다. 지속시간 [%3$s]초.</string>
+    <string name="Change_the_perspective_to_s1_d2">자신의 시점을 %1$s에 향한다. 거리[%2$d].</string>
+    <string name="Scout_and_change_the_perspective_on_s">찾아서, 자신의 시점을 %s에 향한다.</string>
+    <string name="Change_the_perspective_on_s">자신의 시점을 %s에 향한다.</string>
+    <string name="Detain_Damage">구속(데미지)</string>
+    <string name="Poison">Poison</string>
+    <string name="Burn">Burn</string>
+    <string name="Curse">Curse</string>
+    <string name="Violent_Poison">Violent_Poison</string>
+    <string name="Hex">Hex</string>
+    <string name="Charm">Charm</string>
+    <string name="Confuse">Confuse</string>
+    <string name="Slow">Slow</string>
+    <string name="Haste">Haste</string>
+    <string name="Paralyse">Paralyse</string>
+    <string name="Freeze">Freeze</string>
+    <string name="Bind">Bind</string>
+    <string name="Sleep">Sleep</string>
+    <string name="Stun">Stun</string>
+    <string name="Petrify">Petrify</string>
+    <string name="Detain">Detain</string>
+    <string name="Faint">Faint</string>
+    <string name="Knock_Back">Knock Back</string>
+    <string name="Action">Action</string>
+    <string name="Dot">Dot</string>
+    <string name="Blind">Blind</string>
+    <string name="Silence">Silence</string>
+    <string name="Instant_Death">Instant Death</string>
+    <string name="Unknown_Effect">Unknown Effect</string>
+    <string name="Count_Blind">Count Blind</string>
+    <string name="Inhibit_Heal">Inhibit Heal</string>
+    <string name="Fear">Fear</string>
+    <string name="Seal">Seal</string>
+    <string name="Awe">Awe</string>
+    <string name="Polymorph">Polymorph</string>
+    <string name="Changing_Max_HP">Changing Max HP</string>
+    <string name="Raise_s1_d2_attack_speed_for_s3_sec">%1$s의 행동속도를 [%2$d%%]업. 지속시간 [%3$s]초.</string>
+    <string name="Reduce_s1_d2_attack_speed_for_s3_sec">%1$s의 행동속도를 [%2$d%%]다운. 지속시간 [%3$s]초.</string>
+    <string name="Make_s1_fall_asleep_for_s2_sec">%1$s을 수면상태로 만든다. 지속시간 [%2$s]초.</string>
+    <string name="Make_s1_fall_into_faint_for_s2_sec">%1$s을 기절시킨다. 지속시간 [%2$s]초.</string>
+    <string name="s1_s2_for_s3_sec">%2$s에 %1$s、지속시간 [%3$s]초.</string>
+    <string name="Poison_s1_and_deal_s2_damage_per_second_for_s3_sec">%1$s를 중독상태로 만들고, 매 초 [%2$s]의 데미지를 준다. 지속시간 [%3$s]초.</string>
+    <string name="Poison_s1_violently_and_deal_s2_damage_per_second_for_s3_sec">%1$s를 맹독상태로 만들고, 매 초 [%2$s]의 데미지를 준다. 지속시간 [%3$s]초.</string>
+    <string name="s1_s2_and_deal_s3_damage_per_second_for_s4_sec">%2$s에 %1$s、매 초 [%3$s]의 데미지를 준다. 지속시간 [%4$s]초.</string>
+    <string name="Silence_s1_with_s2_chance_for_s3_sec">[%2$s%%]의 확률로 %1$s을 침묵시킨다. 지속시간 [%3$s]초.</string>
+    <string name="Blind_s1_with_s2_chance_for_s3_sec_physical_attack_has_d4_chance_to_miss">[%2$s%%]의 확률로 %1$s를 암흑상태로 만든다. 지속시간 [%3$s]초.물리공격은 [%4$s%%]의 확률로 빗나간다. </string>
+    <string name="Move_Speed">행동속도</string>
+    <string name="Physical_Critical_Damage">물리 크리티컬 데미지</string>
+    <string name="Magical_Critical_Damage">마법 크리티컬 데미지</string>
+    <string name="Raise">업</string>
+    <string name="Reduce">다운</string>
+    <string name="s1_s2_s3_s4_s5_during_break">Break기간중, %2$s의 %5$s을 [%3$s%4$s]%1$s。</string>
+    <string name="s1_s2_s3_s4_s5_for_s6_sec">%2$s의 %5$s을 [%3$s%4$s]%1$s,지속시간 [%6$s]초.</string>
+    <string name="Charm_s1_with_s2_chance_for_s3_sec">[%2$s%%]의 확률로 %1$s을 매료시킨다. 지속시간 [%3$s]초.</string>
+    <string name="Confuse_s1_with_s2_chance_for_s3_sec">[%2$s%%]의 확률로 %1$s을 혼란시킨다. 지속시간 [%3$s]초.</string>
+    <string name="Change_attack_pattern_to_d1_for_s2_sec">행동 패턴을 %1$d로 변경한다. 지속시간 [%2$s]초.</string>
+    <string name="Cost_s1_TP_sec_change_attack_pattern_to_d2_until_TP_is_zero">TP를 전부 소모할때까지 행동 패턴을 %2$d로 변경한다. 매 초 TP를 [%1$s] 소모한다.</string>
+    <string name="Change_attack_pattern_back_to_d_after_effect_over">효과종료후 행동 패턴을 %d로 되돌린다.</string>
+    <string name="own_side">아군쪽</string>
+    <string name="opposite">적쪽</string>
+    <string name="normal_type">노말타입</string>
+    <string name="phantom_type">팬텀타입</string>
+    <string name="At_d1_in_front_of_s2_summon_a_minion_id_d3">%2$s의 전방 %1$d의 위치에 소환수 （ID：%3$d）을 소환한다.</string>
+    <string name="At_d1_behind_of_s2_summon_a_minion_id_d3">%2$sの後方%1$d의 위치에 소환수 （ID：%3$d）을 소환한다.</string>
+    <string name="At_the_position_of_s1_summon_a_minion_id_d2">%1$s의 위치에 소환수 （ID：%2$d）을 소환한다.</string>
+    <string name="Restore_s1_s2_TP">%1$s의 TP를 [%2$s]회복시킨다.</string>
+    <string name="Make_s1_lose_s2_TP">%1$s의 TP를 [%2$s]깍는다.</string>
+    <string name="Trigger_HP_is_below_d">조건：HP가 [%d%%]이하 일 경우 발동.</string>
+    <string name="Trigger_Left_time_is_below_s_sec">조건：전투 제한시간이 %s초 이하에서 발동.</string>
+    <string name="Trigger_d_on_damaged">조건：데미지를 받았을 경우 [%d%%]의 확률로 발동.</string>
+    <string name="Trigger_d_on_dead">조건：사망시 [%d%%]의 확률로 발동.</string>
+    <string name="Trigger_d_on_critical_damaged">조건：크리티컬데미지를 받았을 경우 [%d%%]의 확률로 발동.</string>
+    <string name="Trigger_d_on_stealth">조건：잠복시[%d%%]의 확률로 발동.</string>
+    <string name="Trigger_d1_on_break_and_last_for_s2_sec">조건：Break될 경우 [%1$d%%]의 확률로 발동、지속시간 [%2$s]초.</string>
+    <string name="Trigger_d_on_dot_damaged">조건：지속데미지를 받았을 경우 [%d%%]의 확률로 발동.</string>
+    <string name="Charge_for_s1_sec_and_deal_s2_damage_taken_additional_damage_on_the_next_effect">%1$s초 차지후, 다음 액션의 효과를 [%2$s * 차지중 받은 데미지] 업.</string>
+    <string name="Make_s1_attract_enemy_attacks_last_for_s2_sec">%1$s에 도발상태. 지속시간 [%2$s]초.</string>
+    <string name="Make_s1_to_be_invulnerable_for_s2_sec">%1$s에 무적상태. 지속시간 [%2$s]초.</string>
+    <string name="Make_s1_to_be_invulnerable_to_physical_damage_for_s2_sec">%1$s에 물리공격무효상태. 지속시간 [%2$s]초.</string>
+    <string name="Change_skill_visual_effect_for_s_sec">스킬의 비쥬얼을 변경한다. 지속시간 [%s]초.</string>
+    <string name="use_d1_to_s2_if_s3">%2$s가 %3$s인 경우, [액션%1$d]을 사용한다.</string>
+    <string name="use_d1_to_s2_in_state_of_ID_d3">%2$s가 마크 [ID：%3$d]을 가지고 있는 경우, [액션%1$d]을 사용한다.</string>
+    <string name="use_d1_to_s2_if_it_is_alone">%2$s가 혼자인 경우, [액션%1$d]를 사용한다.</string>
+    <string name="use_d1_to_s2_if_HP_is_below_d">%2$s의 HP가 %3$d%%이하의 경우, [액션%1$d]을 사용한다. </string>
+    <string name="use_d1_to_s2_if_not_s3">%2$s가 %3$s이지 않은 경우, [액션%1$d]을 사용한다. </string>
+    <string name="use_d1_to_s2_if_not_in_state_of_ID_d3">%2$s가 마크 [ID：%3$d]을 가지고 있지 않은 경우, [액션%1$d]을 사용한다. </string>
+    <string name="use_d1_to_s2_if_it_is_not_alone">%2$s가 혼자이지 않은 경우, [액션%1$d]을 사용한다. </string>
+    <string name="use_d1_to_s2_if_HP_is_not_below_d">%2$s의 HP가 %3$d%%이하가 아닌 경우, [액션%1$d]을 사용한다. </string>
+    <string name="Random_event_d1_chance_use_d2_otherwise_d3">랜덤조건：[%1$d%%]의 확률로 [액션%2$d]을 사용, 그 외의 경우에는 [액션%3$d]을 사용한다. </string>
+    <string name="Random_event_d1_chance_use_d2">랜덤조건：[%1$d%%]의 확률로 [액션%2$d]을 사용한다. </string>
+    <string name="controlled">controlled</string>
+    <string name="blinded">blinded</string>
+    <string name="charmed_or_confused">charmed or confused</string>
+    <string name="decoying">decoying</string>
+    <string name="burned">burned</string>
+    <string name="cursed">cursed</string>
+    <string name="poisoned">poisoned</string>
+    <string name="venomed">venomed</string>
+    <string name="poisoned_or_venomed">poisoned_or_venomed</string>
+    <string name="breaking">breaking</string>
+    <string name="Condition_s">Условие：%s</string>
+    <string name="separator">, </string>
+    <string name="Revive_s1_with_d2_HP">%1$s의 HP를 [%2$d%%]회복시킨다.</string>
+    <string name="Modifier_add_s1_HP_to_value_d2_of_effect_d3">[액션%3$d]의 매개변수 %2$d을[%1$s * HP]상승시킨다.</string>
+    <string name="Modifier_add_s1_lost_HP_to_value_d2_of_effect_d3">[액션%3$d]의 매개변수 %2$d을 [%1$s * 잃은 HP]상승시킨다. </string>
+    <string name="Modifier_add_s1_count_of_defeated_enemies_to_value_d2_of_effect_d3">[액션%3$d]의 매개변수 %2$d을 [%1$s * 쓰러뜨린 적의 수]상승시킨다. </string>
+    <string name="Modifier_add_s1_stacks_of_mark_ID_d2_to_value_d3_of_effect_d4">[액션%4$d]의 매개변수 %3$d을 [%1$s * 마크 [ID：%2$d]의 스택 수]상승시킨다. </string>
+    <string name="Modifier_add_s1_count_of_targets_to_value_d2_of_effect_d3">[액션%3$d]의 매개변수 %2$d을 [%1$s * 타겟의 수]상승시킨다. </string>
+    <string name="Modifier_add_s1_total_damage_to_value_d2_of_effect_d3">[액션%3$d]의 매개변수 %2$d을 [%1$s * 데미지 량]상승시킨다. </string>
+    <string name="Modifier_add_s1_s2_of_s3_to_value_d4_of_effect_d5">[액션%5$d]의 매개변수 %4$d을 [%1$s * %3$s의 %2$s]상승시킨다. </string>
+    <string name="Modifier_add_s1_count_of_s2_behind_self_to_value_d3_of_effect_d4">[액션%4$d]의 매개변수 %3$d을 [%1$s * 후방의 %2$s의 수]상승시킨다. </string>
+    <string name="Modifier_add_s1_count_of_omemes_value_d2_of_effect_d3">[액션%3$d]의 매개변수 %2$d을 [%1$s * 오메메쨩의 수]상승시킨다. </string>
+    <string name="Modifier_multiple_s1_HP_max_HP_to_value_d2_of_effect_d3">[액션%3$d]의 매개변수 %2$d에 [%1$s * HP / MaxHP]을 곱한다.</string>
+    <string name="Modifier_multiple_s1_lost_HP_max_HP_to_value_d2_of_effect_d3">[액션%3$d]의 매개변수 %2$dに[%1$s * 잃은 HP / MaxHP]을 곱한다. </string>
+    <string name="Modifier_multiple_s1_count_of_defeated_enemies_to_value_d2_of_effect_d3">[액션%3$d]의 매개변수 %2$d에 [%1$s * 쓰러뜨린 적の 수]을 곱한다. </string>
+    <string name="Modifier_multiple_s1_stacks_of_mark_ID_d2_to_value_d3_of_effect_d4">[액션%4$d]의 매개변수 %3$dに[%1$s * 마크 [ID：%2$d]의 스택 수]을 곱한다. </string>
+    <string name="d1_chance_use_d2">[%1$d%%]의 확률로 [액션%2$d]을 사용한다. </string>
+    <string name="use_d1_if_s2_has_any_dot_debuff">%2$s가 지속데미지 버프가 걸려있지 않으면 [액션%1$d]을 사용한다. </string>
+    <string name="use_d1_if_s2_is_in_state_of_ID_d3_with_stacks_greater_than_or_equal_to_d4">%2$s가 가지고있는 마크 [ID：%3$d]의 스택 수가%4$d이상일 경우, [액션%1$d]을 사용한다. </string>
+    <string name="use_d1_if_s2_is_alone">%2$s가 혼자일 경우, [액션%1$d]을 사용한다. </string>
+    <string name="use_d1_if_the_count_of_s2_except_stealth_units_is_d3">잠복상태의 유닛을 제외하고, %2$s의 수가 %3$d일 경우 [액션%1$d]을 사용한다. </string>
+    <string name="use_d1_if_among_s2_exists_unit_ID_d3">잠복상태의 유닛을 제외하고, %2$s중 유닛 （ID：%3$d）가 존재할 경우 [액션%1$d]을 사용한다. </string>
+    <string name="if_target_is_defeated_by_the_last_effect_then_use_d">전 액션이 타겟을 쓰러뜨렸을 경우, [액션%d]을 사용한다. </string>
+    <string name="counter_is_greater_than_or_equal_to_d1_then_use_d2">카운터의 수가 %1$d이상일 경우, [액션%2$d]을 사용한다. </string>
+    <string name="use_d1_if_s2_has_no_dot_debuff">%2$s가 지속데미지 디버프가 걸려있지 않으면 [액션%1$d]을 사용한다. </string>
+    <string name="use_d1_if_s2_is_not_in_state_of_ID_d3_with_stacks_greater_than_or_equal_to_d4">%2$s가 가지고 있는 마크 [ID：%3$d]의 스택 수が%4$d미만일 경우 [액션%1$d]을 사용한다. </string>
+    <string name="use_d1_if_s2_is_not_alone">%2$s가 혼자가 아닐 경우, [액션%1$d]을 사용한다. </string>
+    <string name="use_d1_if_the_count_of_s2_except_stealth_units_is_not_d3">잠복상태의 유닛을 제외하고, %2$s의 수가 %3$d가 아닌 경우, [액션%1$d]을 사용한다. </string>
+    <string name="use_d1_if_among_s2_does_not_exists_unit_ID_d3">잠복상태의 유닛을 제외하고, %2$s중 유닛 （ID：%3$d）가 존재하지 않는 경우, [액션%1$d]을 사용한다. </string>
+    <string name="if_target_is_not_defeated_by_the_last_effect_then_use_d">전 액션이 타겟을 쓰러뜨리지 못했을 경우, [액션%d]을 사용한다. </string>
+    <string name="counter_is_less_than_d1_then_use_d2">카운터의 수가 %1$d미만일 경우 [액션%2$d]을 사용한다. </string>
+    <string name="Exclusive_condition_s">При условии：%s</string>
+    <string name="Kill_s_instantly">"%s Убивает мгновенно. "</string>
+    <string name="Add_additional_s1_s2_to_s3_for_next_s4_attacks">%3$s의 다음 %4$s회의 공격에[%1$s]%2$s효과를 부여한다.</string>
+    <string name="Cast_a_barrier_on_s1_to_strike_back_s2_damage_when_taking_physical_damage">%1$s에 쉴드를 전개한다. 물리데미지를 받았을 경우 [%2$s]분의 데미지를 반사한다.</string>
+    <string name="Cast_a_barrier_on_s1_to_strike_back_s2_damage_when_taking_magical_damage">%1$s에 쉴드를 전개한다. 마법데미지를 받았을 경우 [%2$s]분의 데미지를 반사한다.</string>
+    <string name="Cast_a_barrier_on_s1_to_strike_back_s2_damage_and_recover_the_same_HP_when_taking_physical_damage">%1$s에 쉴드를 전개한다. 물리데미지를 받았을 경우 [%2$s]분의 데미지를 반사하고, 자신의 HP를 그만큼 회복시킨다.</string>
+    <string name="Cast_a_barrier_on_s1_to_strike_back_s2_damage_and_recover_the_same_HP_when_taking_magical_damage">%1$s에 쉴드를 전개한다. 마법데미지를 받았을 경우 [%2$s]분의 데미지를 반사하고, 자신의 HP를 그만큼 회복시킨다.</string>
+    <string name="Cast_a_barrier_on_s1_to_strike_back_s2_damage_and_recover_the_same_HP_when_taking_damage">%1$s에 쉴드를 전개한다. 데미지를 받았을 경우 [%2$s]분의 데미지를 반사하고, 자신의 HP를 그만큼 회복시킨다.</string>
+    <string name="Cast_a_barrier_on_s1_to_strike_back_s2_damage_when_taking_damage">%1$s에 쉴드를 전개한다. 데미지를 받았을 경우 [%2$s]분의 데미지를 반사한다.</string>
+    <string name="Add_additional_s1_damage_per_attack_with_max_s2_stacks_to_current_target">현재의 타겟을 공격할 때 마다, 데미지량을 [%1$s]추가한다. 이 효과는 [%2$s]회까지 중첩된다. </string>
+    <string name="Add_s1_mark_stacks_max_s2_ID_s3_on_s4_for_s5_sec">%4$s에 마크 [ID：%3$s]을 %1$s스택 추가한다. 지속시간 [%5$s]초. 이 효과는 최대[%2$s]까지 중첩된다.</string>
+    <string name="Remove_s1_mark_stacks_ID_s2_on_s3">%3$s의 마크 [ID：%2$s]을 %1$s스택 감소시킨다. </string>
+    <string name="Summon_a_field_of_radius_d1_to_deal_s2_s3_damage_per_second_for_s4_sec_to_s5">반경 %1$d의 필드를 전개하고, %5$s에 매 초 [%2$s]の%3$s데미지를 가한다. 지속시간 [%4$s]초.</string>
+    <string name="Summon_a_field_of_radius_d1_at_position_of_s2_to_deal_s3_s4_damage_per_second_for_s5_sec">%2$s의 위치에 반경 %1$d의 필드를 전개하고, 매 초 [%3$s]の%4$s데미지를 가한다. 지속시간 [%5$s]초.</string>
+    <string name="Summon_a_healing_field_of_radius_d1_to_heal_s2_s3_s4_HP_per_second_for_5s_sec">반경 %1$d의 필드를 전개하고, %2$sに매 초 [%3$s%4$s]의 HP를 회복시킨다. 지속시간 [%5$s]초.</string>
+    <string name="Summon_a_healing_field_of_radius_d1_at_position_of_s2_to_heal_s3_s4_HP_per_second_for_s5_sec">%2$s의 위치에 반경 %1$d의 필드를 전개하고, 매 초 [%3$s%4$s]의 HP를 회복시킨다. 지속시간 [%5$s]초.</string>
+    <string name="Summon_a_field_of_radius_d1_to_s2_s3_s4_s5_for_s6_sec">반경 %1$d의 필드를 전개하고, %3$s의 %5$s을 [%4$s]%2$s시킨다. 지속시간 [%6$s]초.</string>
+    <string name="Summon_a_field_of_radius_d1_at_position_of_s2_to_s3_s4_s5_for_s6_sec">%2$s의 위치에 반경 %1$d의 필드를 전개하고, %5$s을 [%4$s]%3$s시킨다. 지속시간 [%6$s]초.</string>
+    <string name="Summon_a_field_of_radius_d1_on_s2_to_cast_effect_d3_for_s4_sec">%2$s의 위치에 반경 %1$d의 필드를 전개하고, [액션%3$d]を지속的に放る、지속시간 [%4$s]초.</string>
+    <string name="Condition_s1_chance_use_d2_when_takes_damage_within_s3_sec">조건분기：[%3$s]초 이내에 데미지를 받은 경우, [%1$s%%]의 확률로 [액션%2$d]을 사용한다. </string>
+    <string name="Appear_after_s_sec_since_wave_start">웨이브 시작 %s초 후에 입장한다.</string>
+    <string name="Add_d_to_the_counter">카운터의 수를 %d 증가시킨다.</string>
+    <string name="Deal_damage_equal_to_s1_of_target_max_HP_to_s2">%2$s에 최대HP%1$s%%분의 데미지를 준다.</string>
+    <string name="Deal_damage_equal_to_s1_of_target_current_HP_to_s2">%2$s의 남은 HP%1$s%%분의 데미지를 준다.</string>
+    <string name="s_Damage_is_reduced_on_low_level_players">%s데미지는 레벨이 낮은 플레이어에 대해 경감된다.</string>
+    <string name="Restore_s1_s2_s3_per_second_for_s4_sec">%1$s의 %3$s을 매 초 [%2$s]회복시킨다. 지속시간 [%4$s]초.</string>
+    <string name="Channeling_for_s1_sec_disrupted_by_taking_damage_d2_times_s3_s4_s5_s6_s7">%4$s의 %7$s을 [%5$s%6$s]%3$s시킨다. 이 액션은 [%1$s]초 지속하고, 데미지를 %2$d회 받았을 경우 중단된다.</string>
+    <string name="Change_body_width_to_s">모델의 폭을 %s로 한다.</string>
+    <string name="Condition_if_the_specific_field_exists_then_use_d1_otherwise_d2">조건분기：특정 필드효과가 존재할 경우, [액션%1$d]을 사용, 그렇지 않으면 [액션%2$d]을 사용한다. </string>
+    <string name="Condition_if_the_specific_field_exists_then_use_d">조건분기：특정 필드효과가 존재할 경우, [액션%d]을 사용한다. </string>
+    <string name="Stealth_for_s_sec">잠복상태에 들어간다. 지속시간 [%s]초.</string>
+    <string name="Move_Part_d1_d2_forward_then_return">부위 %1$d을 앞으로 %2$d이동시키고, 그 후 원래의 위치로 돌아간다.</string>
+    <string name="In_nex_s1_sec_s2_physical_attacks_will_miss">%2$s의 물리공격을 반드시 빗나가게 한다. 지속시간 [%1$s]초.</string>
+    <string name="In_next_s1_attacks_s2_physical_attacks_will_miss">%2$s의 다음 [%1$s]회 물리공격을 반드시 빗나가게 한다.</string>
+    <string name="Set_a_countdown_timer_on_s1_trigger_effect_d2_after_s3_sec">%1$s에 카운트다운을 시작하여, [%3$s]초 후 [액션%2$d]을 발동시킨다.</string>
+    <string name="Remove_field_of_skill_d1_1_represents_the_first_skill_in_this_list_effect_d2">[スキル%1$d]의 [액션%2$d]으로 전개한 필드를 무효화 한다.</string>
+    <string name="When_s1_receive_healing_deal_s2_healing_amount_damage_instead_last_for_s3_sec_or_unlimited_time_if_triggered_by_field">%1$s가 회복을 받았을 경우, 그것을 무효로 하고 [%2$s]분의 데미지를 준다. 지속시간 [%3$s]초.이 효과는 필드효과일 경우 지속시간 무한.</string>
+    <string name="Make_s1_when_get_one_hit_by_the_caster_gain_one_mark_stack_max_s2_ID_s3_for_s4_sec">자신이 %1$s을 Hit할 때마다, 대상에 마크 [ID：%3$s]을 1스택 추가한다. 지속시간 [%4$s]초. 이 효과는 최대[%2$s]까지 중첩된다.</string>
+    <string name="Make_s1_when_deal_damage_gain_one_mark_stack_max_s2_ID_s3_for_s4_sec">%1$s가 데미지를 가할 때 마다, 마크 [ID：%3$s]을 1스택 추가한다. 지속시간 [%4$s]초. 이 효과는 최대[%2$s]까지 중첩된다.</string>
+    <string name="Fear_s1_with_s2_chance_for_s3_sec">[%2$s%%]의 확률로 %1$s을 공황상태로 만든다. 지속시간 [%3$s]초.</string>
+    <string name="Reduce_s1_damage_or_instant_healing_effect_of_union_burst_and_main_skills_cast_by_s2_for_s3_sec">%2$s의 UB나 스킬이 임의의 타겟에 데미지나 직접회복을 줄떄마다, 그 값을 [%1$s%%]낮춘다. 지속시간 [%3$s]초.</string>
+    <string name="Reduce_s1_damage_or_instant_healing_effect_of_union_burst_cast_by_s2_for_s3_sec">%2$s의 UB가 임의의 타겟에 데미지나 직접회복을 줄떄마다, 그 값을 [%1$s%%]낮춘다. 지속시간 [%3$s]초.</string>
+    <string name="Repeat_effect_d1_every_s2_sec_up_to_s3_sec_break_if_taken_more_than_s4_damage">%2$s초 마다 [액션%1$d]을 사용하고, 최대[%3$s]초까지 지속된다. 받은 데미지량이 [%4$s]을 넘었을 경우 이 효과는 중단된다.</string>
+    <string name="use_d_after_time_up">지속시간 종료 후, [액션%d]을 사용한다. </string>
+    <string name="use_d_after_break">효과가 중단된 후, [액션%d]을 사용한다. </string>
+    <string name="Polymorph_s1_for_s2_sec">%1$s을 %2$s초 변신시킨다. </string>
+    <string name="Clear_all_s1_on_s2_with_chance_s3">[%3$s%%]의 확률로 %2$s의 %1$s을 모두 해제한다.</string>
+    <string name="buffs">buffs</string>
+    <string name="debuffs">debuffs</string>
+    <string name="Raise_s1_s2">%2$s을 [%1$s]상승시킨다. </string>
+    <string name="When_s1_HP_reaches_0_restore_s2_HP_once_in_next_s3_sec">%1$s에 「HP가 0이되기 직전, HP를 [%2$s]회복하고, 이 버프를 해제한다」 의 효과를 부여한다. 지속시간 [%3$s]초.</string>
+    <string name="Cast_a_barrier_on_s1_to_reduce_damage_over_s2_with_coefficient_s3_the_greater_the_less_reduced_amount_for_s4_s">%1$s의 배리어를 전개한다. 한번의 행동으로 받은 데미지가 [%2$s]을 넘은 경우, 데미지를 경감하여 받는다. 경감계수 [%3$s]（이 값은 낮을수록 감쇠하기 쉽다.）, 효과시간 [%4$s]초.</string>
+    <string name="Trigger_d_on_all_targets_break">트리거：모든 부위가 Break 된 경우 발동</string>
+    <string name="Make_s1_to_be_invulnerable_to_break_for_s2_sec">%1$s에 Break 면역상태 부여. 지속시간 [%2$s]초.</string>
+
+    <string name="title_equipment">Эквип</string>
+    <string name="title_quest">Квесты</string>
+    <string name="title_log">Логи</string>
+    <string name="setting_re_download_db">Скачать БД</string>
+    <string name="text_drop_rarity">Уровень рарности：%s</string>
+    <string name="text_drop_mana">Дроп маны：%d</string>
+    <string name="text_condition_and">Все вещи</string>
+    <string name="text_condition_andor">Несколько вещей</string>
+    <string name="text_condition_or">Одна вещь</string>
+    <string name="icon_cancel_all">Отменить все</string>
+    <string name="text_log_clean">Удалить все файлы журнала, вы уверены?</string>
+    <string name="text_delete">Удалить</string>
+    <string name="text_deney">Отмена</string>
+    <string name="text_copy">Копировать</string>
+    <string name="text_copy_finished">Копирование завершено</string>
+    <string name="title_calendar">Календарь</string>
+    <string name="title_setting">Настройки</string>
+    <string name="title_dungeon">Данж</string>
+    <string name="setting_re_download_db_summary">download db summary</string>
+    <string name="setting_about">О программе</string>
 </resources>
