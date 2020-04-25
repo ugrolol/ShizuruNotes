@@ -6,31 +6,38 @@
 
   <string name="Action">Action</string>
 
-  <string name="Add_additional_s1_damage_per_attack_with_max_s2_stacks_to_current_target">Add additional %1$s damage per attack with max %2$s stacks to current target</string>
+  <string
+  name="Add_additional_s1_damage_per_attack_with_max_s2_stacks_to_current_target">Add
+  additional %1$s damage per attack with max %2$s stacks to current
+  target</string>
 
-  <string name="Add_additional_s1_s2_to_s3_for_next_s4_attacks">Add additional %1$s %2$s to %3$s for next %4$s attacks</string>
+  <string name="Add_additional_s1_s2_to_s3_for_next_s4_attacks">Add additional
+  %1$s %2$s to %3$s for next %4$s attacks</string>
 
   <string name="Add_d_to_the_counter">Add %d to the counter</string>
 
-  <string name="Add_s1_mark_stacks_max_s2_ID_s3_on_s4_for_s5_sec">Add [%1$s] buff stacks max [%2$s] [ID: %3$s] on %4$s for %5$s sec</string>
+  <string name="Add_s1_mark_stacks_max_s2_ID_s3_on_s4_for_s5_sec">Add %1$s
+  mark stacks max %2$s ID %3$s on %4$s for %5$s sec</string>
 
-  <string name="all">"everyone "</string>
+  <string name="all">all</string>
 
-  <string name="all_front_enemy_targets">front enemy targets</string>
+  <string name="all_front_enemy_targets">all front enemy targets</string>
 
-  <string name="all_front_including_self_friendly_targets">front including self friendly targets</string>
+  <string name="all_front_including_self_friendly_targets">all front including
+  self friendly targets</string>
 
-  <string name="all_front_including_self_s_friendly_targets">front including self %s friendly targets</string>
+  <string name="all_front_including_self_s_friendly_targets">all front
+  including self %s friendly targets</string>
 
-  <string name="all_front_s_enemy_targets">front %s enemy targets</string>
+  <string name="all_front_s_enemy_targets">all front %s enemy targets</string>
 
-  <string name="all_front_s_targets">front %s targets</string>
+  <string name="all_front_s_targets">all front %s targets</string>
 
-  <string name="all_front_targets">front targets</string>
+  <string name="all_front_targets">all front targets</string>
 
-  <string name="all_s_s_targets">%2$s%1$s targets</string>
+  <string name="all_s_s_targets">all %2$s%1$s targets</string>
 
-  <string name="all_s_targets">%s targets</string>
+  <string name="all_s_targets">all %s targets</string>
 
   <string name="any_of_s">any of %s</string>
 
@@ -38,33 +45,40 @@
 
   <string name="app_update_check_failed">App update check failed</string>
 
-  <string name="Appear_after_s_sec_since_wave_start">Appear after %s sec since wave start</string>
+  <string name="Appear_after_s_sec_since_wave_start">Appear after %s sec since
+  wave start</string>
 
-  <string name="At_d1_behind_of_s2_summon_a_minion_id_d3">Summon a minion [id: %3$d] in range %1$d behind of %2$s</string>
+  <string name="At_d1_behind_of_s2_summon_a_minion_id_d3">At %1$d behind of
+  %2$s summon a minion id %3$d</string>
 
-  <string name="At_d1_in_front_of_s2_summon_a_minion_id_d3">Summon a minion [id: %3$d] in range %1$d in front of %2$s</string>
+  <string name="At_d1_in_front_of_s2_summon_a_minion_id_d3">At %1$d in front
+  of %2$s summon a minion id %3$d</string>
 
-  <string name="At_the_position_of_s1_summon_a_minion_id_d2">Summon a minion [id: %2$d] at position of %1$s</string>
+  <string name="At_the_position_of_s1_summon_a_minion_id_d2">At the position
+  of %1$s summon a minion id %2$d</string>
 
   <string name="ATK">ATK</string>
 
   <string name="Awe">Awe</string>
 
-  <string name="before_2_summary">2 days before start</string>
+  <string name="before_2_summary">2 days before</string>
 
-  <string name="before_summary">day before start</string>
+  <string name="before_summary">day before</string>
 
   <string name="Bind">Bind</string>
 
   <string name="Blind">Blind</string>
 
-  <string name="Blind_s1_with_s2_chance_for_s3_sec_physical_attack_has_d4_chance_to_miss">Blind %1$s with %2$s %% chance for %3$s sec physical attack has %4$d %% chance to miss</string>
+  <string
+  name="Blind_s1_with_s2_chance_for_s3_sec_physical_attack_has_d4_chance_to_miss">Blind
+  %1$s with %2$s chance for %3$s sec physical attack has %4$d chance to
+  miss</string>
 
   <string name="blinded">blinded</string>
 
-  <string name="boss">"boss "</string>
+  <string name="boss">boss</string>
 
-  <string name="both_sides">"units on both sides "</string>
+  <string name="both_sides">both sides</string>
 
   <string name="breaking">breaking</string>
 
@@ -78,101 +92,161 @@
 
   <string name="campaign">campaign</string>
 
-  <string name="Cast_a_barrier_on_s1_to_absorb_s2_magical_damage_for_s3_sec">Cast a barrier on %1$s to absorb %2$s magical damage for %3$s sec</string>
+  <string
+  name="Cast_a_barrier_on_s1_to_absorb_s2_magical_damage_for_s3_sec">Cast a
+  barrier on %1$s to absorb %2$s magical damage for %3$s sec</string>
 
-  <string name="Cast_a_barrier_on_s1_to_absorb_s2_physical_and_magical_damage_for_s3_sec">Cast a barrier on %1$s to absorb %2$s physical and magical damage for %3$s sec</string>
+  <string
+  name="Cast_a_barrier_on_s1_to_absorb_s2_physical_and_magical_damage_for_s3_sec">Cast
+  a barrier on %1$s to absorb %2$s physical and magical damage for %3$s
+  sec</string>
 
-  <string name="Cast_a_barrier_on_s1_to_absorb_s2_physical_damage_for_s3_sec">Cast a barrier on %1$s to absorb %2$s physical damage for %3$s sec</string>
+  <string
+  name="Cast_a_barrier_on_s1_to_absorb_s2_physical_damage_for_s3_sec">Cast a
+  barrier on %1$s to absorb %2$s physical damage for %3$s sec</string>
 
-  <string name="Cast_a_barrier_on_s1_to_nullify_s2_magical_damage_for_s3_sec">Cast a barrier on %1$s to nullify %2$s magical damage for %3$s sec</string>
+  <string
+  name="Cast_a_barrier_on_s1_to_nullify_s2_magical_damage_for_s3_sec">Cast a
+  barrier on %1$s to nullify %2$s magical damage for %3$s sec</string>
 
-  <string name="Cast_a_barrier_on_s1_to_nullify_s2_physical_and_magical_damage_for_s3_sec">Cast a barrier on %1$s to nullify %2$s physical and magical damage for %3$s sec</string>
+  <string
+  name="Cast_a_barrier_on_s1_to_nullify_s2_physical_and_magical_damage_for_s3_sec">Cast
+  a barrier on %1$s to nullify %2$s physical and magical damage for %3$s
+  sec</string>
 
-  <string name="Cast_a_barrier_on_s1_to_nullify_s2_physical_damage_for_s3_sec">Cast a barrier on %1$s to nullify %2$s physical damage for %3$s sec</string>
+  <string
+  name="Cast_a_barrier_on_s1_to_nullify_s2_physical_damage_for_s3_sec">Cast a
+  barrier on %1$s to nullify %2$s physical damage for %3$s sec</string>
 
-  <string name="Cast_a_barrier_on_s1_to_strike_back_s2_damage_and_recover_the_same_HP_when_taking_damage">Cast a barrier on %1$s to strike back %2$s damage and recover the same HP when taking damage</string>
+  <string
+  name="Cast_a_barrier_on_s1_to_strike_back_s2_damage_and_recover_the_same_HP_when_taking_damage">Cast
+  a barrier on %1$s to strike back %2$s damage and recover the same HP when
+  taking damage</string>
 
-  <string name="Cast_a_barrier_on_s1_to_strike_back_s2_damage_and_recover_the_same_HP_when_taking_magical_damage">Cast a barrier on %1$s to strike back %2$s damage and recover the same HP when taking magical damage</string>
+  <string
+  name="Cast_a_barrier_on_s1_to_strike_back_s2_damage_and_recover_the_same_HP_when_taking_magical_damage">Cast
+  a barrier on %1$s to strike back %2$s damage and recover the same HP when
+  taking magical damage</string>
 
-  <string name="Cast_a_barrier_on_s1_to_strike_back_s2_damage_and_recover_the_same_HP_when_taking_physical_damage">Cast a barrier on %1$s to strike back %2$s damage and recover the same HP when taking physical damage</string>
+  <string
+  name="Cast_a_barrier_on_s1_to_strike_back_s2_damage_and_recover_the_same_HP_when_taking_physical_damage">Cast
+  a barrier on %1$s to strike back %2$s damage and recover the same HP when
+  taking physical damage</string>
 
-  <string name="Cast_a_barrier_on_s1_to_strike_back_s2_damage_when_taking_damage">Cast a barrier on %1$s to strike back %2$s damage when taking damage</string>
+  <string
+  name="Cast_a_barrier_on_s1_to_strike_back_s2_damage_when_taking_damage">Cast
+  a barrier on %1$s to strike back %2$s damage when taking damage</string>
 
-  <string name="Cast_a_barrier_on_s1_to_strike_back_s2_damage_when_taking_magical_damage">Cast a barrier on %1$s to strike back %2$s damage when taking magical damage</string>
+  <string
+  name="Cast_a_barrier_on_s1_to_strike_back_s2_damage_when_taking_magical_damage">Cast
+  a barrier on %1$s to strike back %2$s damage when taking magical
+  damage</string>
 
-  <string name="Cast_a_barrier_on_s1_to_strike_back_s2_damage_when_taking_physical_damage">Cast a barrier on %1$s to strike back %2$s damage when taking physical damage</string>
+  <string
+  name="Cast_a_barrier_on_s1_to_strike_back_s2_damage_when_taking_physical_damage">Cast
+  a barrier on %1$s to strike back %2$s damage when taking physical
+  damage</string>
 
-  <string name="Cast_an_unknown_barrier_d1_on_s2_for_s3_sec">Cast an unknown barrier %1$d on %2$s for %3$s sec</string>
+  <string name="Cast_an_unknown_barrier_d1_on_s2_for_s3_sec">Cast an unknown
+  barrier %1$d on %2$s for %3$s sec</string>
 
-  <string name="Change_attack_pattern_back_to_d_after_effect_over">Change attack pattern back to %d after effect over</string>
+  <string name="Change_attack_pattern_back_to_d_after_effect_over">Change
+  attack pattern back to %d after effect over</string>
 
-  <string name="Change_attack_pattern_to_d1_for_s2_sec">Change attack pattern to %1$d for %2$s sec</string>
+  <string name="Change_attack_pattern_to_d1_for_s2_sec">Change attack pattern
+  to %1$d for %2$s sec</string>
 
   <string name="Change_body_width_to_s">Change body width to %s</string>
 
-  <string name="Change_self_position_s_backward">Change self position %s backward</string>
+  <string name="Change_self_position_s_backward">Change self position %s
+  backward</string>
 
-  <string name="Change_self_position_s_backward_then_return">Change self position %s backward then return</string>
+  <string name="Change_self_position_s_backward_then_return">Change self
+  position %s backward then return</string>
 
-  <string name="Change_self_position_s_forward">Change self position %s forward</string>
+  <string name="Change_self_position_s_forward">Change self position %s
+  forward</string>
 
-  <string name="Change_self_position_s_forward_then_return">Change self position %s forward then return</string>
+  <string name="Change_self_position_s_forward_then_return">Change self
+  position %s forward then return</string>
 
   <string name="Change_self_position_to_s">Change self position to %s</string>
 
-  <string name="Change_self_position_to_s_then_return">Change self position to %s then return</string>
+  <string name="Change_self_position_to_s_then_return">Change self position to
+  %s then return</string>
 
-  <string name="Change_skill_visual_effect_for_s_sec">Change skill visual effect for %s sec</string>
+  <string name="Change_skill_visual_effect_for_s_sec">Change skill visual
+  effect for %s sec</string>
 
-  <string name="Change_the_perspective_on_s">Change the pov of %s</string>
+  <string name="Change_the_perspective_on_s">Change the perspective of
+  %s</string>
 
-  <string name="Change_the_perspective_to_s1_d2">Change the pov to %1$s %2$d</string>
+  <string name="Change_the_perspective_to_s1_d2">Change the perspective to
+  %1$s %2$d</string>
 
-  <string name="Changing_Max_HP">HP change</string>
+  <string name="Changing_Max_HP">Change the perspective to %1$s %2$d</string>
 
-  <string name="Channeling_for_s1_sec_disrupted_by_taking_damage_d2_times_s3_s4_s5_s6_s7">%3$s %7$s of %4$s by [%5$s %6$s] , this part lasts [%1$s] seconds or until receives damage %2$d time[s].</string>
+  <string
+  name="Channeling_for_s1_sec_disrupted_by_taking_damage_d2_times_s3_s4_s5_s6_s7">Changing
+  Max HP</string>
 
-  <string name="Charge_for_s1_sec_and_deal_s2_damage_taken_additional_damage_on_the_next_effect">Charge for [%1$s] seconds and increase the effect of the next action by [%2$s * damage received while charging].</string>
+  <string
+  name="Charge_for_s1_sec_and_deal_s2_damage_taken_additional_damage_on_the_next_effect">Charge
+  for %1$s sec and deal %2$s damage taken additional damage on the next
+  effect</string>
 
   <string name="Charm">Charm</string>
 
-  <string name="Charm_s1_with_s2_chance_for_s3_sec">Charm %1$s with %2$s %% chance for %3$s sec</string>
+  <string name="Charm_s1_with_s2_chance_for_s3_sec">Charm %1$s with %2$s
+  chance for %3$s sec</string>
 
   <string name="charmed_or_confused">charmed or confused</string>
 
   <string name="clanBattle">ClanBattle</string>
 
-  <string name="Clear_all_s1_on_s2_with_chance_s3">Clear all %1$s on %2$s with chance %3$s%%</string>
+  <string name="Clear_all_s1_on_s2_with_chance_s3">Clear all %1$s on %2$s with
+  chance %3$s</string>
 
-  <string name="Condition_if_the_specific_field_exists_then_use_d">Condition: if the specific field exists then use [%d]</string>
+  <string name="Condition_if_the_specific_field_exists_then_use_d">Condition
+  if the specific field exists then use %d</string>
 
-  <string name="Condition_if_the_specific_field_exists_then_use_d1_otherwise_d2">Condition: if the specific field exists then use [%1$d] otherwise [%2$d]</string>
+  <string
+  name="Condition_if_the_specific_field_exists_then_use_d1_otherwise_d2">Condition
+  if the specific field exists then use %1$d otherwise %2$d</string>
 
-  <string name="Condition_s">Condition: %s</string>
+  <string name="Condition_s">Condition %s</string>
 
-  <string name="Condition_s1_chance_use_d2_when_takes_damage_within_s3_sec">Condition %1$s %% chance use %2$d when takes damage within %3$s sec</string>
+  <string
+  name="Condition_s1_chance_use_d2_when_takes_damage_within_s3_sec">Condition
+  %1$s chance use %2$d when takes damage within %3$s sec</string>
 
   <string name="Confuse">Confuse</string>
 
-  <string name="Confuse_s1_with_s2_chance_for_s3_sec">Confuse %1$s with %2$s %% chance for %3$s sec</string>
+  <string name="Confuse_s1_with_s2_chance_for_s3_sec">Confuse %1$s with %2$s
+  chance for %3$s sec</string>
 
   <string name="controlled">controlled</string>
 
-  <string name="Cost_s1_TP_sec_change_attack_pattern_to_d2_until_TP_is_zero">It changes its behavior pattern to %2$d until TP runs out, and consumes [%1$s] TP every second.</string>
+  <string
+  name="Cost_s1_TP_sec_change_attack_pattern_to_d2_until_TP_is_zero">Cost %1$s
+  TP sec change attack pattern to %2$d until TP is zero</string>
 
   <string name="Count_Blind">Count Blind</string>
 
-  <string name="counter_is_greater_than_or_equal_to_d1_then_use_d2">"if counter is ≥ %1$d then use [%2$d] "</string>
+  <string name="counter_is_greater_than_or_equal_to_d1_then_use_d2">counter is
+  greater than or equal to %1$d then use %2$d</string>
 
-  <string name="counter_is_less_than_d1_then_use_d2">counter is less than %1$d use %2$d</string>
+  <string name="counter_is_less_than_d1_then_use_d2">counter is less than %1$d
+  then use %2$d</string>
 
-  <string name="Critical_damage_is_s_times_as_normal_damage">Critical damage is %s times as normal damage</string>
+  <string name="Critical_damage_is_s_times_as_normal_damage">Critical damage
+  is %s times as normal damage</string>
 
   <string name="Curse">Curse</string>
 
   <string name="cursed">cursed</string>
 
-  <string name="d1_chance_use_d2">"%1$d %% chance use %2$d "</string>
+  <string name="d1_chance_use_d2">%1$d chance use %2$d</string>
 
   <string name="db_update_check_failed">Update check failed</string>
 
@@ -180,7 +254,7 @@
 
   <string name="db_update_dialog_confirm">Update</string>
 
-  <string name="db_update_download_finished_text">DB update download finished</string>
+    <string name="db_update_download_finished_text">DB update download finished</string>
 
   <string name="db_update_dialog_title">DB update</string>
 
@@ -194,13 +268,17 @@
 
   <string name="db_update_progress_title">Updating data base</string>
 
-  <string name="Deal_damage_equal_to_s1_of_target_current_HP_to_s2">Deal damage equal to %1$s%% of [target`s current HP] to %2$s</string>
+  <string name="Deal_damage_equal_to_s1_of_target_current_HP_to_s2">Deal
+  damage equal to %1$s of target current HP to %2$s</string>
 
-  <string name="Deal_damage_equal_to_s1_of_target_max_HP_to_s2">Deal damage equal to %1$s%% of [target`s max HP] to %2$s</string>
+  <string name="Deal_damage_equal_to_s1_of_target_max_HP_to_s2">Deal damage
+  equal to %1$s of target max HP to %2$s</string>
 
   <string name="Deal_s1_s2_damage_to_s3">Deal %1$s %2$s damage to %3$s </string>
 
-  <string name="Deal_s1_s2_damage_to_s3_and_this_attack_is_ensured_critical">"Deal %1$s %2$s damage to %3$s and this attack is ensured critical "</string>
+  <string
+  name="Deal_s1_s2_damage_to_s3_and_this_attack_is_ensured_critical">Deal %1$s
+  %2$s damage to %3$s and this attack is ensured critical</string>
 
   <string name="debuffs">debuffs</string>
 
@@ -218,17 +296,17 @@
 
   <string name="Draw_s1_toward_self_d2">Draw %1$s toward self %2$d</string>
 
-  <string name="drop_s">" drop x %s"</string>
+  <string name="drop_s">" drop %s"</string>
 
   <string name="dungeon">Dungeon</string>
 
   <string name="dungeon_before_2_title">Dungeon notification</string>
 
-  <string name="enemy">enemy</string>
+    <string name="enemy">enemy</string>
 
-  <string name="Energy_Recovery_Rate">tp recovery rate</string>
+  <string name="Energy_Recovery_Rate">Energy Recovery Rate</string>
 
-  <string name="Energy_Reduce_Rate">tp cost reduction rate</string>
+  <string name="Energy_Reduce_Rate">Energy Reduce Rate</string>
 
   <string name="ex_skill_1">EX 1</string>
 
@@ -250,51 +328,54 @@
 
   <string name="ex_skill_5_evo">EX 5+</string>
 
-  <string name="Exclusive_condition_s">Exclusive condition: %s</string>
+  <string name="Exclusive_condition_s">Exclusive condition %s</string>
 
-  <string name="exp_s">" exp x %s"</string>
+  <string name="exp_s">" exp %s"</string>
 
-  <string name="exploration">"Exploration: "</string>
+  <string name="exploration">Exploration</string>
 
   <string name="Faint">Faint</string>
 
   <string name="Fear">Fear</string>
 
-  <string name="Fear_s1_with_s2_chance_for_s3_sec">Fear %1$s with %2$s %% chance for %3$s sec</string>
+  <string name="Fear_s1_with_s2_chance_for_s3_sec">Fear %1$s with %2$s chance
+  for %3$s sec</string>
 
-  <string name="fifth">"fifth "</string>
+  <string name="fifth">fifth</string>
 
-  <string name="first">"first "</string>
+  <string name="first">first</string>
 
-  <string name="four">"four "</string>
+  <string name="four">four</string>
 
-  <string name="fourth">"fourth "</string>
+  <string name="fourth">fourth</string>
 
   <string name="Freeze">Freeze</string>
 
-  <string name="friendly">ally</string>
+  <string name="friendly">friendly</string>
 
-  <string name="front">"front "</string>
+  <string name="front">front</string>
 
-  <string name="front_and_back">"front and back "</string>
+  <string name="front_and_back">front and back</string>
 
-  <string name="front_including_self">"front including self "</string>
+  <string name="front_including_self">front including self</string>
 
-  <string name="front_s1_s2_targets_in_range_d3">front %1$s %2$s targets in range [%3$d]</string>
+  <string name="front_s1_s2_targets_in_range_d3">front %1$s %2$s targets in
+  range %3$d</string>
 
-  <string name="front_s1_targets_in_range_d2">front %1$s targets in range [%2$d]</string>
+  <string name="front_s1_targets_in_range_d2">front %1$s targets in range
+  %2$d</string>
 
-  <string name="gacha">"Free gacha "</string>
+  <string name="gacha">Gacha</string>
 
-  <string name="hard">"Hard: "</string>
+  <string name="hard">"Hard "</string>
 
   <string name="Haste">Haste</string>
 
   <string name="hatsune">Event</string>
 
-  <string name="hatsune_hard">Event hard:</string>
+    <string name="hatsune_hard">Event hard</string>
 
-  <string name="hatsune_normal">Event normal:</string>
+    <string name="hatsune_normal">Event normal</string>
 
   <string name="Hex">Hex</string>
 
@@ -308,15 +389,19 @@
 
   <string name="icon_notification">Notification</string>
 
-  <string name="if_target_is_defeated_by_the_last_effect_then_use_d">if target is defeated by the last effect then use [%d]</string>
+  <string name="if_target_is_defeated_by_the_last_effect_then_use_d">if target
+  is defeated by the last effect then use %d</string>
 
-  <string name="if_target_is_not_defeated_by_the_last_effect_then_use_d">if target is not defeated by the last effect then use %d</string>
+  <string name="if_target_is_not_defeated_by_the_last_effect_then_use_d">if
+  target is not defeated by the last effect then use %d</string>
 
-  <string name="In_nex_s1_sec_s2_physical_attacks_will_miss">In next %1$s sec %2$s physical attacks will miss</string>
+  <string name="In_nex_s1_sec_s2_physical_attacks_will_miss">In nex %1$s sec
+  %2$s physical attacks will miss</string>
 
-  <string name="In_next_s1_attacks_s2_physical_attacks_will_miss">In next %1$s attacks %2$s physical attacks will miss</string>
+  <string name="In_next_s1_attacks_s2_physical_attacks_will_miss">In next %1$s
+  attacks %2$s physical attacks will miss</string>
 
-  <string name="inevitable_physical">unavoidable physical</string>
+  <string name="inevitable_physical">inevitable physical</string>
 
   <string name="Inhibit_Heal">Inhibit Heal</string>
 
@@ -326,9 +411,9 @@
 
   <string name="Knock_Back">Knock Back</string>
 
-  <string name="Knock_s1_away_d2">Knock %1$s away by %2$d</string>
+  <string name="Knock_s1_away_d2">Knock %1$s away %2$d</string>
 
-  <string name="Knock_s1_up_d2">Knock %1$s up to %2$d</string>
+  <string name="Knock_s1_up_d2">Knock %1$s up %2$d</string>
 
   <string name="last_hour_summary">last hour</string>
 
@@ -338,7 +423,7 @@
 
   <string name="loop_start">loop start</string>
 
-  <string name="magic">"magical type "</string>
+  <string name="magic">magic</string>
 
   <string name="Magic_DEF">Magic DEF</string>
 
@@ -376,77 +461,121 @@
 
   <string name="main_skill_9">Main 9</string>
 
-  <string name="Make_s1_attract_enemy_attacks_last_for_s2_sec">Provoke enemy for %2$s sec</string>
+  <string name="Make_s1_attract_enemy_attacks_last_for_s2_sec">Make %1$s
+  attract enemy attacks last for %2$s sec</string>
 
-  <string name="Make_s1_fall_asleep_for_s2_sec">Make %1$s fall asleep for %2$s sec</string>
+  <string name="Make_s1_fall_asleep_for_s2_sec">Make %1$s fall asleep for %2$s
+  sec</string>
 
-  <string name="Make_s1_fall_into_faint_for_s2_sec">Make %1$s fall into faint for %2$s sec</string>
+  <string name="Make_s1_fall_into_faint_for_s2_sec">Make %1$s fall into faint
+  for %2$s sec</string>
 
   <string name="Make_s1_lose_s2_TP">Make %1$s lose %2$s TP</string>
 
-  <string name="Make_s1_to_be_invulnerable_for_s2_sec">Make %1$s to be invulnerable for %2$s sec</string>
+  <string name="Make_s1_to_be_invulnerable_for_s2_sec">Make %1$s to be
+  invulnerable for %2$s sec</string>
 
-  <string name="Make_s1_to_be_invulnerable_to_break_for_s2_sec">Make %1$s to be invulnerable to break for %2$s sec</string>
+  <string name="Make_s1_to_be_invulnerable_to_break_for_s2_sec">Make %1$s to
+  be invulnerable to break for %2$s sec</string>
 
-  <string name="Make_s1_to_be_invulnerable_to_physical_damage_for_s2_sec">Make %1$s to be invulnerable to physical damage for %2$s sec</string>
+  <string name="Make_s1_to_be_invulnerable_to_physical_damage_for_s2_sec">Make
+  %1$s to be invulnerable to physical damage for %2$s sec</string>
 
-  <string name="Make_s1_when_deal_critical_damage_gain_one_mark_stack_max_s2_ID_s3_for_s4_sec">Each time when deal critical damage gain one stack [max %2$s] of buff [ID: %3$s] for %4$s sec</string>
+  <string
+  name="Make_s1_when_deal_critical_damage_gain_one_mark_stack_max_s2_ID_s3_for_s4_sec">Make
+  %1$s when deal critical damage gain one mark stack max %2$s ID %3$s for %4$s
+  sec</string>
 
-  <string name="Make_s1_when_deal_damage_gain_one_mark_stack_max_s2_ID_s3_for_s4_sec">Each time when deals damage gain 1 stack of buff [ID: %3$s], the effect time is [%4$s] seconds, and this effect stacks up to [%2$s].</string>
+  <string
+  name="Make_s1_when_deal_damage_gain_one_mark_stack_max_s2_ID_s3_for_s4_sec">Make
+  %1$s when deal damage gain one mark stack max %2$s ID %3$s for %4$s
+  sec</string>
 
-  <string name="Make_s1_when_get_one_hit_by_the_caster_gain_one_mark_stack_max_s2_ID_s3_for_s4_sec">Each time when hit [%1$s] gain stack of buff [ID: %3$s]. Duration [%4$s] seconds. This effect stacks up to [%2$s].</string>
+  <string
+  name="Make_s1_when_get_one_hit_by_the_caster_gain_one_mark_stack_max_s2_ID_s3_for_s4_sec">Make
+  %1$s when get one hit by the caster gain one mark stack max %2$s ID %3$s for
+  %4$s sec</string>
 
-  <string name="mana_s">" mana x %s"</string>
+  <string name="mana_s">" mana %s"</string>
 
-  <string name="master_coin_s">" master coin x %s"</string>
+  <string name="master_coin_s">" master coin %s"</string>
 
-  <string name="minion">"summoned "</string>
+  <string name="minion">minion</string>
 
-  <string name="Modifier_add_s1_count_of_defeated_enemies_to_value_d2_of_effect_d3">Increase value of [part %3$d] by [%1$s * the number of defeated enemies].</string>
+  <string
+  name="Modifier_add_s1_count_of_defeated_enemies_to_value_d2_of_effect_d3">Modifier
+  add %1$s count of defeated enemies to value %2$d of effect %3$d</string>
 
-  <string name="Modifier_add_s1_count_of_omemes_value_d2_of_effect_d3">Increase value of [part %3$d] by [%1$s * number of Omeme-chan].</string>
+  <string
+  name="Modifier_add_s1_count_of_omemes_value_d2_of_effect_d3">Modifier add
+  %1$s count of omemes value %2$d of effect %3$d</string>
 
-  <string name="Modifier_add_s1_count_of_s2_behind_self_to_value_d3_of_effect_d4">Increase value of [part %4$d] by [%1$s * number of %2$s behind].</string>
+  <string
+  name="Modifier_add_s1_count_of_s2_behind_self_to_value_d3_of_effect_d4">Modifier
+  add %1$s count of %2$s behind self to value %3$d of effect %4$d</string>
 
-  <string name="Modifier_add_s1_count_of_targets_to_value_d2_of_effect_d3">Increase value of [part %3$d] by [%1$s * number of targets].</string>
+  <string
+  name="Modifier_add_s1_count_of_targets_to_value_d2_of_effect_d3">Modifier
+  add %1$s count of targets to value %2$d of effect %3$d</string>
 
-  <string name="Modifier_add_s1_HP_to_value_d2_of_effect_d3">Increase value of [part %3$d] by [%1$s * HP].</string>
+  <string name="Modifier_add_s1_HP_to_value_d2_of_effect_d3">Modifier add %1$s
+  HP to value %2$d of effect %3$d</string>
 
-  <string name="Modifier_add_s1_lost_HP_to_value_d2_of_effect_d3">Increase value of [part %3$d] by [%1$s * HP lost].</string>
+  <string name="Modifier_add_s1_lost_HP_to_value_d2_of_effect_d3">Modifier add
+  %1$s lost HP to value %2$d of effect %3$d</string>
 
-  <string name="Modifier_add_s1_s2_of_s3_to_value_d4_of_effect_d5">Increase value of [part %5$d] by [%1$s * %2$s].</string>
+  <string name="Modifier_add_s1_s2_of_s3_to_value_d4_of_effect_d5">Modifier
+  add %1$s %2$s of %3$s to value %4$d of effect %5$d</string>
 
-  <string name="Modifier_add_s1_stacks_of_mark_ID_d2_to_value_d3_of_effect_d4">Increase value of [part %4$d] by [Number of buff stacks * %1$s].</string>
+  <string
+  name="Modifier_add_s1_stacks_of_mark_ID_d2_to_value_d3_of_effect_d4">Modifier
+  add %1$s stacks of mark ID %2$d to value %3$d of effect %4$d</string>
 
-  <string name="Modifier_add_s1_total_damage_to_value_d2_of_effect_d3">Increases value of [part %3$d] by [%1$s * total damage amount done].</string>
+  <string
+  name="Modifier_add_s1_total_damage_to_value_d2_of_effect_d3">Modifier add
+  %1$s total damage to value %2$d of effect %3$d</string>
 
-  <string name="Modifier_multiple_s1_count_of_defeated_enemies_to_value_d2_of_effect_d3">Multiply value of [part %3$d] by [%1$s * number of killed enemies].</string>
+  <string
+  name="Modifier_multiple_s1_count_of_defeated_enemies_to_value_d2_of_effect_d3">Modifier
+  multiple %1$s count of defeated enemies to value %2$d of effect
+  %3$d</string>
 
-  <string name="Modifier_multiple_s1_HP_max_HP_to_value_d2_of_effect_d3">Multiply value of [part %3$d] by [%1$s * HP /MaxHP].</string>
+  <string
+  name="Modifier_multiple_s1_HP_max_HP_to_value_d2_of_effect_d3">Modifier
+  multiple %1$s HP max HP to value %2$d of effect %3$d</string>
 
-  <string name="Modifier_multiple_s1_lost_HP_max_HP_to_value_d2_of_effect_d3">Multiply value of [part %3$d] by [%1$s * Lost HP /MaxHP].</string>
+  <string
+  name="Modifier_multiple_s1_lost_HP_max_HP_to_value_d2_of_effect_d3">Modifier
+  multiple %1$s lost HP max HP to value %2$d of effect %3$d</string>
 
-  <string name="Modifier_multiple_s1_stacks_of_mark_ID_d2_to_value_d3_of_effect_d4">Multiply value of [part %4$d] by [%1$s * mark [ID: %2$d] number of stacks].</string>
+  <string
+  name="Modifier_multiple_s1_stacks_of_mark_ID_d2_to_value_d3_of_effect_d4">Modifier
+  multiple %1$s stacks of mark ID %2$d to value %3$d of effect %4$d</string>
 
-  <string name="Move_backward_s1_with_velocity_s2_sec">Move backward [%1$s] at a speed of [%2$s].</string>
+  <string name="Move_backward_s1_with_velocity_s2_sec">Move backward %1$s with
+  velocity %2$s sec</string>
 
-  <string name="Move_forward_s1_with_velocity_s2_sec">Move forward [%1$s] at a speed of [%2$s].</string>
+  <string name="Move_forward_s1_with_velocity_s2_sec">Move forward %1$s with
+  velocity %2$s sec</string>
 
-  <string name="Move_Part_d1_d2_forward_then_return">Move Part %1$d %2$d forward then return</string>
+  <string name="Move_Part_d1_d2_forward_then_return">Move Part %1$d %2$d
+  forward then return</string>
 
   <string name="Move_Speed">Move Speed</string>
 
-  <string name="Move_to_s1_behind_of_s2_with_velocity_s3_sec">Move to the position [%1$s] behind %2$s at a speed of [%3$s].</string>
+  <string name="Move_to_s1_behind_of_s2_with_velocity_s3_sec">Move to %1$s
+  behind of %2$s with velocity %3$s sec</string>
 
-  <string name="Move_to_s1_in_front_of_s2_with_velocity_s3_sec">Move to the position [%1$s] in front of %2$s at the speed [%3$s].</string>
+  <string name="Move_to_s1_in_front_of_s2_with_velocity_s3_sec">Move to %1$s
+  in front of %2$s with velocity %3$s sec</string>
 
-  <string name="normal">"Normal: "</string>
+  <string name="normal">"Normal "</string>
 
   <string name="normal_before_title">Normal notification</string>
 
   <string name="normal_type">normal type</string>
 
-  <string name="one">"one "</string>
+  <string name="one">one</string>
 
   <string name="opposite">opposite</string>
 
@@ -468,13 +597,16 @@
 
   <string name="Physical_Penetrate">Physical Penetrate</string>
 
-  <string name="physics">"physical type "</string>
+  <string name="physics">physics</string>
 
   <string name="Poison">Poison</string>
 
-  <string name="Poison_s1_and_deal_s2_damage_per_second_for_s3_sec">Poison %1$s and deal %2$s damage per second for %3$s sec</string>
+  <string name="Poison_s1_and_deal_s2_damage_per_second_for_s3_sec">Poison
+  %1$s and deal %2$s damage per second for %3$s sec</string>
 
-  <string name="Poison_s1_violently_and_deal_s2_damage_per_second_for_s3_sec">Poison %1$s violently and deal %2$s damage per second for %3$s sec</string>
+  <string
+  name="Poison_s1_violently_and_deal_s2_damage_per_second_for_s3_sec">Poison
+  %1$s violently and deal %2$s damage per second for %3$s sec</string>
 
   <string name="poisoned">poisoned</string>
 
@@ -484,125 +616,152 @@
 
   <string name="Polymorph_s1_for_s2_sec">Polymorph %1$s for %2$s sec</string>
 
-  <string name="Raise">Increase</string>
+  <string name="Raise">Raise</string>
 
-  <string name="Raise_s1_d2_attack_speed_for_s3_sec">Increase %1$s action speed by %2$d for %3$s sec</string>
+  <string name="Raise_s1_d2_attack_speed_for_s3_sec">Raise %1$s %2$d attack
+  speed for %3$s sec</string>
 
-  <string name="Raise_s1_s2">Increase %1$s %2$s</string>
+  <string name="Raise_s1_s2">Raise %1$s %2$s</string>
 
-  <string name="random">"random "</string>
+  <string name="random">random</string>
 
-  <string name="Random_event_d1_chance_use_d2">Random event %1$d %% chance use %2$d</string>
+  <string name="Random_event_d1_chance_use_d2">Random event %1$d chance use
+  %2$d</string>
 
-  <string name="Random_event_d1_chance_use_d2_otherwise_d3">Random event %1$d %% chance use %2$d otherwise %3$d</string>
+  <string name="Random_event_d1_chance_use_d2_otherwise_d3">Random event %1$d
+  chance use %2$d otherwise %3$d</string>
 
-  <string name="random_minion">"random minion "</string>
+  <string name="random_minion">random minion</string>
 
-  <string name="random_self_minion">"random self minion "</string>
+  <string name="random_self_minion">random self minion</string>
 
   <string name="Reduce">Reduce</string>
 
-  <string name="Reduce_s1_d2_attack_speed_for_s3_sec">Reduce action speed of %1$s by %2$d for %3$s sec</string>
+  <string name="Reduce_s1_d2_attack_speed_for_s3_sec">Reduce %1$s %2$d attack
+  speed for %3$s sec</string>
 
-  <string name="Reduce_s1_damage_or_instant_healing_effect_of_union_burst_and_main_skills_cast_by_s2_for_s3_sec">Reduce %1$s damage or instant healing effect of union burst and main skills cast by %2$s for %3$s sec</string>
+  <string
+  name="Reduce_s1_damage_or_instant_healing_effect_of_union_burst_and_main_skills_cast_by_s2_for_s3_sec">Reduce
+  %1$s damage or instant healing effect of union burst and main skills cast by
+  %2$s for %3$s sec</string>
 
-  <string name="Reduce_s1_damage_or_instant_healing_effect_of_union_burst_cast_by_s2_for_s3_sec">Reduce %1$s damage or instant healing effect of union burst cast by %2$s for %3$s sec</string>
+  <string
+  name="Reduce_s1_damage_or_instant_healing_effect_of_union_burst_cast_by_s2_for_s3_sec">Reduce
+  %1$s damage or instant healing effect of union burst cast by %2$s for %3$s
+  sec</string>
 
-  <string name="Remove_field_of_skill_d1_1_represents_the_first_skill_in_this_list_effect_d2">Remove field of skill %1$d 1 represents the first skill in this list effect %2$d</string>
+  <string
+  name="Remove_field_of_skill_d1_1_represents_the_first_skill_in_this_list_effect_d2">Remove
+  field of skill %1$d 1 represents the first skill in this list effect
+  %2$d</string>
 
-  <string name="Remove_s1_mark_stacks_ID_s2_on_s3">Remove [%1$s] buff stacks [ID: %2$s] on %3$s</string>
+  <string name="Remove_s1_mark_stacks_ID_s2_on_s3">Remove %1$s mark stacks ID
+  %2$s on %3$s</string>
 
-  <string name="Repeat_effect_d1_every_s2_sec_up_to_s3_sec_break_if_taken_more_than_s4_damage">Repeat effect %1$d every %2$s sec up to %3$s sec break if taken more than %4$s damage</string>
+  <string
+  name="Repeat_effect_d1_every_s2_sec_up_to_s3_sec_break_if_taken_more_than_s4_damage">Repeat
+  effect %1$d every %2$s sec up to %3$s sec break if taken more than %4$s
+  damage</string>
 
   <string name="Restore_s1_s2_s3_HP">Restore %1$s %2$s %3$s HP</string>
 
-  <string name="Restore_s1_s2_s3_per_second_for_s4_sec">Restore %1$s %2$s %3$s per second for %4$s sec</string>
+  <string name="Restore_s1_s2_s3_per_second_for_s4_sec">Restore %1$s %2$s %3$s
+  per second for %4$s sec</string>
 
   <string name="Restore_s1_s2_TP">Restore %1$s %2$s TP</string>
 
-  <string name="revival_event_hard">Rerun event hard:</string>
+  <string name="revival_event_hard">Rerun event hard</string>
 
-  <string name="revival_event_normal">Rerun event normal:</string>
+  <string name="revival_event_normal">Rerun event normal</string>
 
-  <string name="Revive_s1_with_d2_HP">Revive %1$s with %2$d HP (This value is affected by the recovery amount increase value of the character)</string>
+  <string name="Revive_s1_with_d2_HP">Revive %1$s with %2$d HP</string>
 
   <string name="s_boss">%s boss</string>
 
-  <string name="s_Damage_is_reduced_on_low_level_players">%s Damage is reduced on low level players</string>
+  <string name="s_Damage_is_reduced_on_low_level_players">%s Damage is reduced
+  on low level players</string>
 
-  <string name="s_farthest">"%s farthest "</string>
+  <string name="s_farthest">%s farthest</string>
 
-  <string name="s_highest_ATK">"%s highest ATK "</string>
+  <string name="s_highest_ATK">%s highest ATK</string>
 
-  <string name="s_highest_HP_ratio">%s highest HP</string>
+  <string name="s_highest_HP_ratio">%s highest HP ratio</string>
 
-  <string name="s_highest_Magic_STR">"%s highest Magic STR "</string>
+  <string name="s_highest_Magic_STR">%s highest Magic STR</string>
 
-  <string name="s_highest_TP">"%s highest TP "</string>
+  <string name="s_highest_TP">%s highest TP</string>
 
-  <string name="s_lowest_ATK">"%s lowest ATK "</string>
+  <string name="s_lowest_ATK">%s lowest ATK</string>
 
-  <string name="s_lowest_HP_ratio">%s lowest HP</string>
+  <string name="s_lowest_HP_ratio">%s lowest HP ratio</string>
 
-  <string name="s_lowest_Magic_STR">"%s lowest Magic STR "</string>
+  <string name="s_lowest_Magic_STR">%s lowest Magic STR</string>
 
-  <string name="s_lowest_TP">"%s lowest TP "</string>
+  <string name="s_lowest_TP">%s lowest TP</string>
 
-  <string name="s_magic">"%s magic "</string>
+  <string name="s_magic">%s magic</string>
 
-  <string name="s_minion">"%s minion "</string>
+  <string name="s_minion">%s minion</string>
 
-  <string name="s_most_backward">"%s most backward "</string>
+  <string name="s_most_backward">%s most backward</string>
 
-  <string name="s_most_forward">"%s most forward "</string>
+  <string name="s_most_forward">%s most forward</string>
 
-  <string name="s_nearest">"%s nearest "</string>
+  <string name="s_nearest">%s nearest</string>
 
-  <string name="s_physics">"%s physics "</string>
+  <string name="s_physics">%s physics</string>
 
-  <string name="s_random">"%s random "</string>
+  <string name="s_random">%s random</string>
 
-  <string name="s_s_s">%1$s%2$s%3$s</string>
+  <string name="s_s_s">%s %s %s</string>
 
-  <string name="s_s_target">%1$s%2$s</string>
+  <string name="s_s_target">%s %s target</string>
 
   <string name="s_unknown_type">%s unknown type</string>
 
   <string name="s1_front_s2_s3"> %1$s front %2$s %3$s</string>
 
-  <string name="s1_front_s2_s3_in_range_d4">" %1$s front %2$s %3$s in range [%4$d]"</string>
+  <string name="s1_front_s2_s3_in_range_d4"> %1$s front %2$s %3$s in range
+  %4$d</string>
 
-  <string name="s1_front_s2_target_in_range_d3">" %1$s front %2$s target in range [%3$d]"</string>
+  <string name="s1_front_s2_target_in_range_d3"> %1$s front %2$s target in
+  range %3$d</string>
 
-  <string name="s1_s2_and_deal_s3_damage_per_second_for_s4_sec"> %1$s %2$s and deal %3$s damage per second for %4$s sec</string>
+  <string name="s1_s2_and_deal_s3_damage_per_second_for_s4_sec"> 732 %1$s %2$s and
+  deal %3$s damage per second for %4$s sec</string>
 
-  <string name="s1_s2_for_s3_sec">%1$s %2$s for %3$s sec</string>
+  <string name="s1_s2_for_s3_sec"> %1$s %2$s for %3$s sec</string>
 
-  <string name="s1_s2_s3_in_range_d4">%1$s%2$s%3$s in range [%4$d]</string>
+  <string name="s1_s2_s3_in_range_d4">%3$s %1$s %2$s  in range %4$d</string>
 
-  <string name="s1_s2_s3_s4_s5_during_break"> %1$s %2$s %3$s %4$s %5$s during break</string>
+  <string name="s1_s2_s3_s4_s5_during_break"> %1$s %2$s %3$s %4$s %5$s during
+  break</string>
 
-  <string name="s1_s2_s3_s4_s5_for_s6_sec">"%1$s %5$s of %2$s by %3$s%4$s for %6$s sec"</string>
+  <string name="s1_s2_s3_s4_s5_for_s6_sec"> 1%1$s 4%4$s 2%2$s 3%3$s  5%5$s for %6$s
+  sec</string>
 
-  <string name="s1_s2_target_in_range_d3">%1$s %2$s target in range [%3$d]</string>
+  <string name="s1_s2_target_in_range_d3">ch2 %1$s %2$s target in range %3$d</string>
 
-  <string name="s1_s2_targets_in_range_d3">%1$s %2$s targets in range [%3$d]</string>
+  <string name="s1_s2_targets_in_range_d3">ch3 %1$s %2$s targets in range %3$d</string>
 
-  <string name="s1_targets_in_range_d2">%1$s targets in range [%2$d]</string>
+  <string name="s1_targets_in_range_d2">ch2 %1$s targets in range %2$d</string>
 
   <string name="s1_to_s2"> %1$s to %2$s</string>
 
-  <string name="Scout_and_change_the_perspective_on_s">Scout and change the pov on %s</string>
+  <string name="Scout_and_change_the_perspective_on_s">Scout and change the
+  perspective on %s</string>
 
   <string name="Seal">Seal</string>
 
-  <string name="second">"second "</string>
+  <string name="second">second</string>
 
-  <string name="self">yourself</string>
+  <string name="self">self</string>
 
-  <string name="separator">,</string>
+  <string name="separator">separator</string>
 
-  <string name="Set_a_countdown_timer_on_s1_trigger_effect_d2_after_s3_sec">Set a countdown timer on %1$s trigger effect %2$d after %3$s sec</string>
+  <string
+  name="Set_a_countdown_timer_on_s1_trigger_effect_d2_after_s3_sec">Set a
+  countdown timer on %1$s trigger effect %2$d after %3$s sec</string>
 
   <string name="setting_about">About</string>
 
@@ -626,11 +785,11 @@
 
   <string name="setting_system">System</string>
 
-  <string name="shiori_hard">Event hard 2nd part:</string>
+  <string name="shiori_hard">Event hard 2nd part</string>
 
-  <string name="shiori_normal">Event Normal (second half):</string>
+  <string name="shiori_normal">shiori normal</string>
 
-  <string name="short_clanBattle">"Krabat "</string>
+  <string name="short_clanBattle">CB</string>
 
   <string name="short_dungeon_s">Dungeon x %s</string>
 
@@ -648,11 +807,12 @@
 
   <string name="short_very_hard_s">VHard x %s</string>
 
-  <string name="shrine">"Sacred site: "</string>
+  <string name="shrine">Shrine</string>
 
   <string name="Silence">Silence</string>
 
-  <string name="Silence_s1_with_s2_chance_for_s3_sec">Silence %1$s with %2$s %% chance for %3$s sec</string>
+  <string name="Silence_s1_with_s2_chance_for_s3_sec">Silence %1$s with %2$s
+  chance for %3$s sec</string>
 
   <string name="Sleep">Sleep</string>
 
@@ -672,39 +832,57 @@
 
   <string name="sp_skill_5">SP 5</string>
 
-  <string name="Stealth_for_s_sec">Stealth for %s sec</string>
+    <string name="Stealth_for_s_sec">Stealth for %s sec</string>
 
   <string name="Stun">Stun</string>
 
-  <string name="Summon_a_field_of_radius_d1_at_position_of_s2_to_deal_s3_s4_damage_per_second_for_s5_sec">Summon a field of radius %1$d at position of %2$s to deal %3$s %4$s damage per second for %5$s sec</string>
+  <string
+  name="Summon_a_field_of_radius_d1_at_position_of_s2_to_deal_s3_s4_damage_per_second_for_s5_sec">Summon
+  a field of radius %1$d at position of %2$s to deal %3$s %4$s damage per
+  second for %5$s sec</string>
 
-  <string name="Summon_a_field_of_radius_d1_at_position_of_s2_to_s3_s4_s5_for_s6_sec">Summon a field of radius %1$d at position of %2$s to %3$s %4$s %5$s for %6$s sec</string>
+  <string
+  name="Summon_a_field_of_radius_d1_at_position_of_s2_to_s3_s4_s5_for_s6_sec">Summon
+  a field of radius %1$d at position of %2$s to %3$s %4$s %5$s for %6$s
+  sec</string>
 
-  <string name="Summon_a_field_of_radius_d1_on_s2_to_cast_effect_d3_for_s4_sec">Summon a field of radius %1$d on %2$s to cast effect %3$d for %4$s sec</string>
+  <string
+  name="Summon_a_field_of_radius_d1_on_s2_to_cast_effect_d3_for_s4_sec">Summon
+  a field of radius %1$d on %2$s to cast effect %3$d for %4$s sec</string>
 
-  <string name="Summon_a_field_of_radius_d1_to_deal_s2_s3_damage_per_second_for_s4_sec_to_s5">Summon a field of radius %1$d to deal %2$s %3$s damage per second for %4$s sec to %5$s</string>
+  <string
+  name="Summon_a_field_of_radius_d1_to_deal_s2_s3_damage_per_second_for_s4_sec_to_s5">Summon
+  a field of radius %1$d to deal %2$s %3$s damage per second for %4$s sec to
+  %5$s</string>
 
-  <string name="Summon_a_field_of_radius_d1_to_s2_s3_s4_s5_for_s6_sec">Summon a field of radius %1$d to %2$s %3$s %4$s %5$s for %6$s sec</string>
+  <string name="Summon_a_field_of_radius_d1_to_s2_s3_s4_s5_for_s6_sec">Summon
+  a field of radius %1$d to %2$s %3$s %4$s %5$s for %6$s sec</string>
 
-  <string name="Summon_a_healing_field_of_radius_d1_at_position_of_s2_to_heal_s3_s4_HP_per_second_for_s5_sec">Summon a healing field of radius %1$d at position of %2$s to heal %3$s %4$s HP per second for %5$s sec</string>
+  <string
+  name="Summon_a_healing_field_of_radius_d1_at_position_of_s2_to_heal_s3_s4_HP_per_second_for_s5_sec">Summon
+  a healing field of radius %1$d at position of %2$s to heal %3$s %4$s HP per
+  second for %5$s sec</string>
 
-  <string name="Summon_a_healing_field_of_radius_d1_to_heal_s2_s3_s4_HP_per_second_for_5s_sec">Summon a healing field of radius %1$d to heal %2$s %3$s %4$s HP per second for %5$s sec</string>
+  <string
+  name="Summon_a_healing_field_of_radius_d1_to_heal_s2_s3_s4_HP_per_second_for_5s_sec">Summon
+  a healing field of radius %1$d to heal %2$s %3$s %4$s HP per second for %5$s
+  sec</string>
 
   <string name="tab_phase">"Phase "</string>
 
-  <string name="target">"target "</string>
+  <string name="target">target</string>
 
-  <string name="targets">"targets "</string>
+  <string name="targets">targets</string>
 
-  <string name="targets_of_effect_d">"target of [part %d] "</string>
+  <string name="targets_of_effect_d">targets of effect %d</string>
 
-  <string name="targets_of_last_effect">"previous action target "</string>
+  <string name="targets_of_last_effect">targets of last effect</string>
 
-  <string name="targets_those_damaged_by_effect_d">targets affected by [part %d]</string>
+  <string name="targets_those_damaged_by_effect_d">targets that under effect [%d]</string>
 
-  <string name="targets_within_the_scope">"target within range "</string>
+  <string name="targets_within_the_scope">targets within the scope</string>
 
-  <string name="temple">Temple:</string>
+  <string name="temple">Temple</string>
 
   <string name="text_accuracy">Accuracy</string>
 
@@ -740,7 +918,7 @@
 
   <string name="text_dodge">Dodge</string>
 
-  <string name="text_drop_rarity">Rarity lvl: %s</string>
+    <string name="text_drop_rarity">Rarity lvl: %s</string>
 
   <string name="text_energy_recovery">TP recovery</string>
 
@@ -756,11 +934,11 @@
 
   <string name="text_hp_recovery">Hp recovery</string>
 
-  <string name="text_life_steal">Life steal</string>
+    <string name="text_life_steal">Life steal</string>
 
   <string name="text_log_clean">log clean</string>
 
-  <string name="text_magical_atk">Magical atk</string>
+    <string name="text_magical_atk">Magical atk</string>
 
   <string name="text_magical_crt">Magical crt</string>
 
@@ -770,13 +948,14 @@
 
   <string name="text_month">" M "</string>
 
-  <string name="text_normal_attack_cast_time">Normal attack cast time：%ss</string>
+  <string name="text_normal_attack_cast_time">Normal attack cast
+  time：%ss</string>
 
   <string name="text_normal_attack_only">Normal attack only</string>
 
   <string name="text_normal_mode">Normal mode</string>
 
-  <string name="text_physical_atk">Physical atk</string>
+    <string name="text_physical_atk">Physical atk</string>
 
   <string name="text_physical_crt">Physical crt</string>
 
@@ -794,7 +973,7 @@
 
   <string name="text_resist_data">Resist data</string>
 
-  <string name="text_search_area_width">"Attack range "</string>
+  <string name="text_search_area_width">Search area width</string>
 
   <string name="text_self_text">Self text</string>
 
@@ -812,59 +991,59 @@
 
   <string name="text_year">" Y "</string>
 
-  <string name="the_farthest">"farthest "</string>
+  <string name="the_farthest">farthest</string>
 
-  <string name="the_highest_ATK">"the highest ATK "</string>
+  <string name="the_highest_ATK">the highest ATK</string>
 
-  <string name="the_highest_HP_ratio">"the highest HP "</string>
+  <string name="the_highest_HP_ratio">the highest HP ratio</string>
 
-  <string name="the_highest_Magic_STR">"the highest Magic STR "</string>
+  <string name="the_highest_Magic_STR">the highest Magic STR</string>
 
-  <string name="the_highest_TP">"the highest TP "</string>
+  <string name="the_highest_TP">the highest TP</string>
 
-  <string name="the_lowest_ATK">"the lowest ATK "</string>
+  <string name="the_lowest_ATK">the lowest ATK</string>
 
-  <string name="the_lowest_HP_ratio">"the lowest HP "</string>
+  <string name="the_lowest_HP_ratio">the lowest HP ratio</string>
 
-  <string name="the_lowest_Magic_STR">"the lowest Magic STR "</string>
+  <string name="the_lowest_Magic_STR">the lowest Magic STR</string>
 
-  <string name="the_lowest_TP">"the lowest TP "</string>
+  <string name="the_lowest_TP">the lowest TP</string>
 
-  <string name="the_most_backward">"the most backward "</string>
+  <string name="the_most_backward">the most backward</string>
 
-  <string name="the_most_forward">"the most forward "</string>
+  <string name="the_most_forward">the most forward</string>
 
-  <string name="the_nearest">"nearby "</string>
+  <string name="the_nearest">nearby</string>
 
-  <string name="the_s_farthest">"%s farthest "</string>
+  <string name="the_s_farthest">the %s farthest</string>
 
-  <string name="the_s_highest_ATK">"%s highest ATK "</string>
+  <string name="the_s_highest_ATK">the %s highest ATK</string>
 
-  <string name="the_s_highest_HP_ratio">"%s highest HP ratio "</string>
+  <string name="the_s_highest_HP_ratio">the %s highest HP ratio</string>
 
-  <string name="the_s_highest_Magic_STR">" %s highest Magic STR "</string>
+  <string name="the_s_highest_Magic_STR">the %s highest Magic STR</string>
 
-  <string name="the_s_highest_TP">"%s highest TP "</string>
+  <string name="the_s_highest_TP">the %s highest TP</string>
 
-  <string name="the_s_lowest_ATK">"%s lowest ATK "</string>
+  <string name="the_s_lowest_ATK">the %s lowest ATK</string>
 
-  <string name="the_s_lowest_HP_ratio">"%s lowest HP ratio "</string>
+  <string name="the_s_lowest_HP_ratio">the %s lowest HP ratio</string>
 
-  <string name="the_s_lowest_Magic_STR">"%s lowest Magic STR "</string>
+  <string name="the_s_lowest_Magic_STR">the %s lowest Magic STR</string>
 
-  <string name="the_s_lowest_TP">"%s lowest TP "</string>
+  <string name="the_s_lowest_TP">the %s lowest TP</string>
 
-  <string name="the_s_most_backward">"%s most backward "</string>
+  <string name="the_s_most_backward">the %s most backward</string>
 
-  <string name="the_s_most_forward">"%s most forward "</string>
+  <string name="the_s_most_forward">the %s most forward</string>
 
-  <string name="the_s_nearest">"%s nearest "</string>
+  <string name="the_s_nearest">the %s nearest</string>
 
-  <string name="the_s_unknown_type">"%s unknown type "</string>
+  <string name="the_s_unknown_type">the %s unknown type</string>
 
-  <string name="third">"third "</string>
+  <string name="third">third</string>
 
-  <string name="three">"three "</string>
+  <string name="three">three</string>
 
   <string name="title_calendar">Calendar</string>
 
@@ -890,15 +1069,17 @@
 
   <string name="title_setting">Settings</string>
 
-  <string name="today_summary">ends today</string>
+  <string name="today_summary">today</string>
 
   <string name="tower">Luna</string>
 
   <string name="TP">TP</string>
 
-  <string name="Trigger_d_on_all_targets_break">Trigger: Activated when all parts are broken.</string>
+  <string name="Trigger_d_on_all_targets_break">Trigger %d on all targets
+  break</string>
 
-  <string name="Trigger_d_on_critical_damaged">Trigger: %d on critical damaged</string>
+  <string name="Trigger_d_on_critical_damaged">Trigger: %d on critical
+  damaged</string>
 
   <string name="Trigger_d_on_damaged">Trigger: %d on damaged</string>
 
@@ -908,13 +1089,14 @@
 
   <string name="Trigger_d_on_stealth">Trigger: %d on stealth</string>
 
-  <string name="Trigger_d1_on_break_and_last_for_s2_sec">Trigger: Activated with a probability of [%1$d%%] when Breaked, duration [%2$s] seconds.</string>
+  <string name="Trigger_d1_on_break_and_last_for_s2_sec">Trigger:%1$d on break
+  and last for %2$s sec</string>
 
-  <string name="Trigger_HP_is_below_d">Trigger: HP is below %d%%</string>
+  <string name="Trigger_HP_is_below_d">Trigger: HP is below %d</string>
 
   <string name="Trigger_Left_time_is_below_s_sec">Trigger: time left is below %s sec</string>
 
-  <string name="two">"two "</string>
+  <string name="two">two</string>
 
   <string name="ui_btn_reset">Reset</string>
 
@@ -970,57 +1152,77 @@
 
   <string name="union_burst_evo">UB+</string>
 
-  <string name="unknown">"unknown "</string>
+  <string name="unknown">unknown</string>
 
   <string name="Unknown">Unknown</string>
 
   <string name="Unknown_Effect">Unknown Effect</string>
 
-  <string name="Unknown_effect_d1_to_s2_with_details_s3_values_s4">Unknown effect %1$d to %2$s with details %3$s values %4$s</string>
+  <string name="Unknown_effect_d1_to_s2_with_details_s3_values_s4">Unknown
+  effect %1$d to %2$s with details %3$s values %4$s</string>
 
-  <string name="use_d_after_break">"use [%d] after break "</string>
+  <string name="use_d_after_break">use %d after break</string>
 
-  <string name="use_d_after_time_up">"use [%d] after time up "</string>
+  <string name="use_d_after_time_up">use %d after time up</string>
 
-  <string name="use_d1_if_among_s2_does_not_exists_unit_ID_d3">"use [%1$d] if among %2$s does not exists unit ID %3$d "</string>
+  <string name="use_d1_if_among_s2_does_not_exists_unit_ID_d3">use %1$d if
+  among %2$s does not exists unit ID %3$d</string>
 
-  <string name="use_d1_if_among_s2_exists_unit_ID_d3">"use [%1$d] if among %2$s exists unit ID %3$d "</string>
+  <string name="use_d1_if_among_s2_exists_unit_ID_d3">use %1$d if among %2$s
+  exists unit ID %3$d</string>
 
-  <string name="use_d1_if_s2_has_any_dot_debuff">"use [%1$d] if %2$s has any dot debuff "</string>
+  <string name="use_d1_if_s2_has_any_dot_debuff">use %1$d if %2$s has any dot
+  debuff</string>
 
-  <string name="use_d1_if_s2_has_no_dot_debuff">"use [%1$d] if %2$s has no dot debuff "</string>
+  <string name="use_d1_if_s2_has_no_dot_debuff">use %1$d if %2$s has no dot
+  debuff</string>
 
-  <string name="use_d1_if_s2_is_alone">"use [%1$d] if %2$s is alone "</string>
+  <string name="use_d1_if_s2_is_alone">use %1$d if %2$s is alone</string>
 
-  <string name="use_d1_if_s2_is_in_state_of_ID_d3_with_stacks_greater_than_or_equal_to_d4">"when buff [ID: %3$d] has ≥ %4$d stacks, use [part %1$d] "</string>
+  <string
+  name="use_d1_if_s2_is_in_state_of_ID_d3_with_stacks_greater_than_or_equal_to_d4">use
+  %1$d if %2$s is in state of ID %3$d with stacks greater than or equal to
+  %4$d</string>
 
-  <string name="use_d1_if_s2_is_not_alone">"use [%1$d] if %2$s is not alone "</string>
+  <string name="use_d1_if_s2_is_not_alone">use %1$d if %2$s is not
+  alone</string>
 
-  <string name="use_d1_if_s2_is_not_in_state_of_ID_d3_with_stacks_greater_than_or_equal_to_d4">"if the number of stacks less than %4$d, [part %1$d] is used "</string>
+  <string
+  name="use_d1_if_s2_is_not_in_state_of_ID_d3_with_stacks_greater_than_or_equal_to_d4">use
+  %1$d if %2$s is not in state of ID %3$d with stacks greater than or equal to
+  %4$d</string>
 
-  <string name="use_d1_if_the_count_of_s2_except_stealth_units_is_d3">"use [%1$d] if the count of %2$s except stealth units is %3$d "</string>
+  <string name="use_d1_if_the_count_of_s2_except_stealth_units_is_d3">use %1$d
+  if the count of %2$s except stealth units is %3$d</string>
 
-  <string name="use_d1_if_the_count_of_s2_except_stealth_units_is_not_d3">"use [%1$d] if the count of %2$s except stealth units is not %3$d "</string>
+  <string name="use_d1_if_the_count_of_s2_except_stealth_units_is_not_d3">use
+  %1$d if the count of %2$s except stealth units is not %3$d</string>
 
-  <string name="use_d1_to_s2_if_HP_is_below_d">If the HP of %2$s is less than [%3$d%%], use [part %1$d].</string>
+  <string name="use_d1_to_s2_if_HP_is_below_d">use %1$d to %2$s if HP is below
+  %d</string>
 
-  <string name="use_d1_to_s2_if_HP_is_not_below_d">If the HP of %2$s is higher than [%3$d%%], use [part %1$d].</string>
+  <string name="use_d1_to_s2_if_HP_is_not_below_d">use %1$d to %2$s if HP is
+  not below %d</string>
 
-  <string name="use_d1_to_s2_if_it_is_alone">"use [%1$d] to %2$s if it is alone "</string>
+  <string name="use_d1_to_s2_if_it_is_alone">use %1$d to %2$s if it is
+  alone</string>
 
-  <string name="use_d1_to_s2_if_it_is_not_alone">"use [%1$d] to %2$s if it is not alone "</string>
+  <string name="use_d1_to_s2_if_it_is_not_alone">use %1$d to %2$s if it is not
+  alone</string>
 
-  <string name="use_d1_to_s2_if_not_in_state_of_ID_d3">"if does not have buff [ID: %3$d], use [part %1$d] "</string>
+  <string name="use_d1_to_s2_if_not_in_state_of_ID_d3">use %1$d to %2$s if not
+  in state of ID %3$d</string>
 
-  <string name="use_d1_to_s2_if_not_s3">"use [%1$d] to %2$s if not %3$s "</string>
+  <string name="use_d1_to_s2_if_not_s3">use %1$d to %2$s if not %3$s</string>
 
-  <string name="use_d1_to_s2_if_s3">"use [%1$d] to %2$s if %3$s "</string>
+  <string name="use_d1_to_s2_if_s3">use %1$d to %2$s if %3$s</string>
 
-  <string name="use_d1_to_s2_in_state_of_ID_d3">"If has the buff [ID: %3$d], use [part %1$d] "</string>
+  <string name="use_d1_to_s2_in_state_of_ID_d3">use %1$d to %2$s in state of
+  ID %3$d</string>
 
   <string name="venomed">venomed</string>
 
-  <string name="very_hard">"Very hard: "</string>
+  <string name="very_hard">"Very hard "</string>
 
   <string name="Violent_Poison">Violent Poison</string>
 
@@ -1028,58 +1230,17 @@
 
   <string name="Wave_HP_Recovery">Wave HP Recovery</string>
 
-  <string name="When_s1_HP_reaches_0_restore_s2_HP_once_in_next_s3_sec">When %1$s HP reaches 0 restore %2$s HP once in next %3$s sec</string>
+  <string name="When_s1_HP_reaches_0_restore_s2_HP_once_in_next_s3_sec">When
+  %1$s HP reaches 0 restore %2$s HP once in next %3$s sec</string>
 
-  <string name="When_s1_receive_healing_deal_s2_healing_amount_damage_instead_last_for_s3_sec_or_unlimited_time_if_triggered_by_field">When %1$s receive healing deal %2$s healing amount damage instead last for %3$s sec or unlimited time if triggered by field</string>
-  <string name="db_update_dialog_text">New version of DB available</string>
-  <string name="hatsune_last_hour_title">Last hour notification</string>
-  <string name="hatsune_last_title">Event end day notification</string>
-  <string name="dungeon_before_title">Dungeon day before notification</string>
-  <string name="text_drop_mana">Mana drop: %d</string>
+  <string
+  name="When_s1_receive_healing_deal_s2_healing_amount_damage_instead_last_for_s3_sec_or_unlimited_time_if_triggered_by_field">When
+  %1$s receive healing deal %2$s healing amount damage instead last for %3$s
+  sec or unlimited time if triggered by field</string>
+    <string name="db_update_dialog_text">New version of DB available</string>
+    <string name="hatsune_last_hour_title">Last hour notification</string>
+    <string name="hatsune_last_title">Event end day notification</string>
+    <string name="dungeon_before_title">Dungeon the day before notification</string>
+    <string name="text_drop_mana">Mana drop: %d</string>
   <string name="Cast_a_barrier_on_s1_to_reduce_damage_over_s2_with_coefficient_s3_the_greater_the_less_reduced_amount_for_s4_s">Applies a shield on %1$s that reduce dmg taken by %3$s.Total absorb amount %2$s. Time [%4$s] sec.</string>
-  <string name="icon_previous">Last choice</string>
-  <string name="title_rank_comparison">Rank comparison</string>
-  <string name="setting_server">Server</string>
-  <string name="setting_server_dialog_title">change server</string>
-  <string name="ui_chip_sort_hp">HP</string>
-  <string name="ui_chip_sort_tp_up">TP gain</string>
-  <string name="ui_chip_sort_tp_reduce">TP cost reduction</string>
-  <string name="ui_chip_sort_physical_critical">Phys crit</string>
-  <string name="ui_chip_sort_magical_critical">Magic crit</string>
-  <string name="use_d1_to_s2_if_target_is_magical_type">"Use %1$d to %2$s if target is magical type "</string>
-  <string name="use_d1_to_s2_if_target_is_not_magical_type">"Use %1$d to %2$s if target is physical type "</string>
-  <string name="short_physical_atk">Patk \n%s</string>
-  <string name="short_physical_crt">Pcrt \n%s</string>
-  <string name="short_physical_def">Pdef \n%s</string>
-  <string name="short_magical_atk">Matk \n%s</string>
-  <string name="short_magical_crt">Mcrt \n%s</string>
-  <string name="short_magical_def">Mdef \n%s</string>
-  <string name="short_hp">HP \n%s</string>
-  <string name="short_life_steal">LL \n%s</string>
-  <string name="short_accuracy">Acc \n%s</string>
-  <string name="short_dodge">Ddg \n%s</string>
-  <string name="short_energy_reduce">TPred \n%s</string>
-  <string name="short_wave_hp_recovery">HPup \n%s</string>
-  <string name="short_wave_energy_recovery">TPup \n%s</string>
-  <string name="rank_comparison_description">Calculation method Description:\nleft rank (X) right rank (Y)\n{[∑ (full enhancement equipment values for rank y) + ∑ (equipment stats of ranks lower than y) + (basic stat for (max level + y)] rounded} - {[∑ (full enhancement equipment values for rank x) + ∑ (equipment stats lower than x) + (maximum level + x) basic stats] rounded down}\n * The above formula is the maximum number of characters Calculated based on status \nTPup mean tp after wave TPred mean TP cost reduction basically can`t fit those in table cos notmunerunes</string>
-  <string name="text_calculate">Calculate</string>
-  <string name="hint_rank_to">Rank Y</string>
-  <string name="hint_rank_from">Rank X</string>
-  <string name="short_hp_recovery">HPrec \n%s</string>
-  <string name="short_energy_recovery">TPgain \n%s</string>
-  <string name="tower_last_title">End day notification</string>
-  <string name="tower_last_hour_title">Notification just before the end</string>
-  <string name="notification_normal_before_title">Normal rateup</string>
-  <string name="notification_normal_before_text">Normal drop campaign starts in 24 hr, let\'s save stamina</string>
-  <string name="notification_dungeon_before_2_title">Dungeon rateup</string>
-  <string name="notification_dungeon_before_2_text">It will be dungeon campaign in 2 days, dont exit dungeon today</string>
-  <string name="notification_dungeon_before_title">Dungeon rateup</string>
-  <string name="notification_dungeon_before_text">It will be a dungeon campaign from tomorrow, let\'s just take a break today</string>
-  <string name="notification_hatsune_last_title">Event end 24h</string>
-  <string name="notification_hatsune_last_text">Event ends in 24hrs, let\'s clear up and spend tickets</string>
-  <string name="notification_hatsune_last_hour_title">Event end 1h</string>
-  <string name="notification_hatsune_last_hour_text">One hour left until end of the event!</string>
-  <string name="notification_tower_last_hour_title">Luna Tower end 1h</string>
-  <string name="notification_tower_last_hour_text">One hour left until end of Luna Tower!</string>
-  <string name="quest_campaign">Quests</string>
 </resources>
