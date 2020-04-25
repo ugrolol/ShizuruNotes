@@ -38,19 +38,19 @@ Gradle building configuration could be found in `./app/build.gradle` and it migh
 * Event Notification 
 * Rank Comparison  
 
+CN server version has been planned.
 
 ## Localization 
-Japanese, Chinese, Korean, English supported.  
-Korean strings are provided by [applemintia](https://twitter.com/_applemintia).  
-English strings are provided by [southrop](https://github.com/southrop).  
+Japanese, Chinese, Korean, English supported.
+Korean strings are provided by [applemintia](https://twitter.com/_applemintia).
+English strings are provided by [southrop](https://github.com/southrop).
 
 ## References 
 * [PrincessGuide](https://github.com/superk589/PrincessGuide) 
-* [redive_master_db_diff](https://github.com/esterTion/redive_master_db_diff)  
+* [redive_master_db_diff](https://github.com/esterTion/redive_master_db_diff)
 
 ## Related projects
-* https://github.com/ugrolol/ShizuruNotes The EN and RU version of this application, developed by [ugrolol](https://github.com/ugrolol). 
-* [KasumiNotes](https://github.com/HerDataSam/KasumiNotes) The KR server version of ShizuruNotes, developed by [HerDataSam](https://github.com/HerDataSam).  
+* [KasumiNotes](https://github.com/HerDataSam/KasumiNotes) The KR server version of ShizuruNotes, developed by [HerDataSam](https://github.com/HerDataSam).
 
 ## Contact
 If you have any suggestions or find some bugs, feel it easy to contact me on Twitter Vibbit[@L8102259](https://twitter.com/L8102259). 
