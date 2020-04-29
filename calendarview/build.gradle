@@ -1,6 +1,14 @@
 apply plugin: 'com.android.library'
 
 android {
+    signingConfigs {
+        ugrok {
+            storeFile file('C:\\Users\\UgroPUZ\\UgroProfessional.jks')
+            storePassword '9dfc6teb'
+            keyAlias = 'keythefirst'
+            keyPassword '0dfc6teb'
+        }
+    }
     compileSdkVersion 28
 
     defaultConfig {
@@ -10,6 +18,7 @@ android {
         versionCode 367
         versionName "3.6.7"
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        signingConfig signingConfigs.ugrok
 
     }
     buildTypes {
@@ -35,12 +44,12 @@ android {
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    androidTestImplementation('androidx.test.espresso:espresso-core:3.1.0', {
+    androidTestImplementation('androidx.test.espresso:espresso-core:3.2.0', {
         exclude group: 'com.android.support', module: 'support-annotations'
     })
     //noinspection GradleDependency
-    implementation 'androidx.appcompat:appcompat:1.0.0'
+    implementation 'androidx.appcompat:appcompat:1.1.0'
     //noinspection GradleDependency
-    implementation 'androidx.recyclerview:recyclerview:1.0.0'
-    testImplementation 'junit:junit:4.12'
+    implementation 'androidx.recyclerview:recyclerview:1.1.0'
+    testImplementation 'junit:junit:4.13'
 }
