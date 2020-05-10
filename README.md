@@ -50,6 +50,8 @@ Korean strings are provided by [@applemintia](https://twitter.com/_applemintia).
 
 ## Related projects
 * [KasumiNotes](https://github.com/HerDataSam/KasumiNotes) The KR server version of ShizuruNotes, developed by [HerDataSam](https://github.com/HerDataSam).
+### API
+* https://redive.estertion.win/
 
 ## Contact
 If you have any suggestions or find some bugs, feel it easy to contact me on Twitter Vibbit[@L8102259](https://twitter.com/L8102259). 
