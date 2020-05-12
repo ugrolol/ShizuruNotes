@@ -2,7 +2,7 @@
 An unofficial Android tool application of the game "Princess Connect Re:Dive".  
 
 # Forked for myself just to add english and russian
-(was about to add ru first but it would take time to translate while english is somehow usable just with pasting keys and some editing)
+(was about to add ru first but it would take time to translate while english is somehow usable just with pasting keys and some editing) В основном ориентирован на перевод на англ потому что русские не качают приложения с гитхабов и смысл пропадает
 
 # Part for those as me who dont know anything about coding but want to make changes or make app work
 How to make your own apk
