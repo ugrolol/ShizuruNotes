@@ -50,9 +50,9 @@
 
   <string name="Awe">Awe</string>
 
-  <string name="before_2_summary">2 days before</string>
+  <string name="before_2_summary">2 days before start</string>
 
-  <string name="before_summary">day before</string>
+  <string name="before_summary">day before start</string>
 
   <string name="Bind">Bind</string>
 
@@ -218,13 +218,13 @@
 
   <string name="Draw_s1_toward_self_d2">Draw %1$s toward self %2$d</string>
 
-  <string name="drop_s">" drop %s"</string>
+  <string name="drop_s">" drop x %s"</string>
 
   <string name="dungeon">Dungeon</string>
 
   <string name="dungeon_before_2_title">Dungeon notification</string>
 
-  <string name="enemy">"enemy "</string>
+  <string name="enemy">enemy</string>
 
   <string name="Energy_Recovery_Rate">tp recovery rate</string>
 
@@ -252,9 +252,9 @@
 
   <string name="Exclusive_condition_s">Exclusive condition: %s</string>
 
-  <string name="exp_s">" exp %s"</string>
+  <string name="exp_s">" exp x %s"</string>
 
-  <string name="exploration">"Exploration "</string>
+  <string name="exploration">"Exploration: "</string>
 
   <string name="Faint">Faint</string>
 
@@ -272,7 +272,7 @@
 
   <string name="Freeze">Freeze</string>
 
-  <string name="friendly">"ally "</string>
+  <string name="friendly">ally</string>
 
   <string name="front">"front "</string>
 
@@ -286,15 +286,15 @@
 
   <string name="gacha">"Free gacha "</string>
 
-  <string name="hard">"Hard "</string>
+  <string name="hard">"Hard: "</string>
 
   <string name="Haste">Haste</string>
 
   <string name="hatsune">Event</string>
 
-  <string name="hatsune_hard">Event hard</string>
+  <string name="hatsune_hard">Event hard:</string>
 
-  <string name="hatsune_normal">Event normal</string>
+  <string name="hatsune_normal">Event normal:</string>
 
   <string name="Hex">Hex</string>
 
@@ -396,9 +396,9 @@
 
   <string name="Make_s1_when_get_one_hit_by_the_caster_gain_one_mark_stack_max_s2_ID_s3_for_s4_sec">Each time when hit [%1$s] gain stack of buff [ID: %3$s]. Duration [%4$s] seconds. This effect stacks up to [%2$s].</string>
 
-  <string name="mana_s">" mana %s"</string>
+  <string name="mana_s">" mana x %s"</string>
 
-  <string name="master_coin_s">" master coin %s"</string>
+  <string name="master_coin_s">" master coin x %s"</string>
 
   <string name="minion">"summoned "</string>
 
@@ -440,7 +440,7 @@
 
   <string name="Move_to_s1_in_front_of_s2_with_velocity_s3_sec">Move to the position [%1$s] in front of %2$s at the speed [%3$s].</string>
 
-  <string name="normal">"Normal "</string>
+  <string name="normal">"Normal: "</string>
 
   <string name="normal_before_title">Normal notification</string>
 
@@ -520,9 +520,9 @@
 
   <string name="Restore_s1_s2_TP">Restore %1$s %2$s TP</string>
 
-  <string name="revival_event_hard">Rerun event hard</string>
+  <string name="revival_event_hard">Rerun event hard:</string>
 
-  <string name="revival_event_normal">Rerun event normal</string>
+  <string name="revival_event_normal">Rerun event normal:</string>
 
   <string name="Revive_s1_with_d2_HP">Revive %1$s with %2$d HP (This value is affected by the recovery amount increase value of the character)</string>
 
@@ -578,7 +578,7 @@
 
   <string name="s1_s2_for_s3_sec">%1$s %2$s for %3$s sec</string>
 
-  <string name="s1_s2_s3_in_range_d4">%3$s %1$s %2$s  in range [%4$d]</string>
+  <string name="s1_s2_s3_in_range_d4">%1$s%2$s%3$s in range [%4$d]</string>
 
   <string name="s1_s2_s3_s4_s5_during_break"> %1$s %2$s %3$s %4$s %5$s during break</string>
 
@@ -626,9 +626,9 @@
 
   <string name="setting_system">System</string>
 
-  <string name="shiori_hard">Event hard 2nd part</string>
+  <string name="shiori_hard">Event hard 2nd part:</string>
 
-  <string name="shiori_normal">Event Normal (second half)</string>
+  <string name="shiori_normal">Event Normal (second half):</string>
 
   <string name="short_clanBattle">"Krabat "</string>
 
@@ -648,7 +648,7 @@
 
   <string name="short_very_hard_s">VHard x %s</string>
 
-  <string name="shrine">"Sacred site "</string>
+  <string name="shrine">"Sacred site: "</string>
 
   <string name="Silence">Silence</string>
 
@@ -704,7 +704,7 @@
 
   <string name="targets_within_the_scope">"target within range "</string>
 
-  <string name="temple">Temple</string>
+  <string name="temple">Temple:</string>
 
   <string name="text_accuracy">Accuracy</string>
 
@@ -890,7 +890,7 @@
 
   <string name="title_setting">Settings</string>
 
-  <string name="today_summary">today</string>
+  <string name="today_summary">ends today</string>
 
   <string name="tower">Luna</string>
 
@@ -1020,7 +1020,7 @@
 
   <string name="venomed">venomed</string>
 
-  <string name="very_hard">"Very hard "</string>
+  <string name="very_hard">"Very hard: "</string>
 
   <string name="Violent_Poison">Violent Poison</string>
 
@@ -1034,8 +1034,52 @@
   <string name="db_update_dialog_text">New version of DB available</string>
   <string name="hatsune_last_hour_title">Last hour notification</string>
   <string name="hatsune_last_title">Event end day notification</string>
-  <string name="dungeon_before_title">Dungeon the day before notification</string>
+  <string name="dungeon_before_title">Dungeon day before notification</string>
   <string name="text_drop_mana">Mana drop: %d</string>
   <string name="Cast_a_barrier_on_s1_to_reduce_damage_over_s2_with_coefficient_s3_the_greater_the_less_reduced_amount_for_s4_s">Applies a shield on %1$s that reduce dmg taken by %3$s.Total absorb amount %2$s. Time [%4$s] sec.</string>
   <string name="icon_previous">Last choice</string>
+  <string name="title_rank_comparison">Rank comparison</string>
+  <string name="setting_server">Server</string>
+  <string name="setting_server_dialog_title">change server</string>
+  <string name="ui_chip_sort_hp">HP</string>
+  <string name="ui_chip_sort_tp_up">TP gain</string>
+  <string name="ui_chip_sort_tp_reduce">TP cost reduction</string>
+  <string name="ui_chip_sort_physical_critical">Phys crit</string>
+  <string name="ui_chip_sort_magical_critical">Magic crit</string>
+  <string name="use_d1_to_s2_if_target_is_magical_type">"Use %1$d to %2$s if target is magical type "</string>
+  <string name="use_d1_to_s2_if_target_is_not_magical_type">"Use %1$d to %2$s if target is physical type "</string>
+  <string name="short_physical_atk">Patk \n%s</string>
+  <string name="short_physical_crt">Pcrt \n%s</string>
+  <string name="short_physical_def">Pdef \n%s</string>
+  <string name="short_magical_atk">Matk \n%s</string>
+  <string name="short_magical_crt">Mcrt \n%s</string>
+  <string name="short_magical_def">Mdef \n%s</string>
+  <string name="short_hp">HP \n%s</string>
+  <string name="short_life_steal">LL \n%s</string>
+  <string name="short_accuracy">Acc \n%s</string>
+  <string name="short_dodge">Ddg \n%s</string>
+  <string name="short_energy_reduce">TPred \n%s</string>
+  <string name="short_wave_hp_recovery">HPup \n%s</string>
+  <string name="short_wave_energy_recovery">TPup \n%s</string>
+  <string name="rank_comparison_description">Calculation method Description:\nleft rank (X) right rank (Y)\n{[∑ (full enhancement equipment values for rank y) + ∑ (equipment stats of ranks lower than y) + (basic stat for (max level + y)] rounded} - {[∑ (full enhancement equipment values for rank x) + ∑ (equipment stats lower than x) + (maximum level + x) basic stats] rounded down}\n * The above formula is the maximum number of characters Calculated based on status \nTPup mean tp after wave TPred mean TP cost reduction basically can't fit those in table cos notmunerunes</string>
+  <string name="text_calculate">Calculate</string>
+  <string name="hint_rank_to">Rank Y</string>
+  <string name="hint_rank_from">Rank X</string>
+  <string name="short_hp_recovery">HPrec \n%s</string>
+  <string name="short_energy_recovery">TPgain \n%s</string>
+  <string name="tower_last_title">End day notification</string>
+  <string name="tower_last_hour_title">Notification just before the end</string>
+  <string name="notification_normal_before_title">Normal rateup</string>
+  <string name="notification_normal_before_text">Normal drop campaign starts in 24 hr, let\'s save stamina</string>
+  <string name="notification_dungeon_before_2_title">Dungeon rateup</string>
+  <string name="notification_dungeon_before_2_text">It will be dungeon campaign in 2 days, dont exit dungeon today</string>
+  <string name="notification_dungeon_before_title">Dungeon rateup</string>
+  <string name="notification_dungeon_before_text">It will be a dungeon campaign from tomorrow, let\'s just take a break today</string>
+  <string name="notification_hatsune_last_title">Event end 24h</string>
+  <string name="notification_hatsune_last_text">Event ends in 24hrs, let\'s clear up and spend tickets</string>
+  <string name="notification_hatsune_last_hour_title">Event end 1h</string>
+  <string name="notification_hatsune_last_hour_text">One hour left until end of the event!</string>
+  <string name="notification_tower_last_hour_title">Luna Tower end 1h</string>
+  <string name="notification_tower_last_hour_text">One hour left until end of Luna Tower!</string>
+  <string name="quest_campaign">Quests</string>
 </resources>
