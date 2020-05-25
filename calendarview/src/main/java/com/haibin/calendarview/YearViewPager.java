@@ -185,9 +185,7 @@ public final class YearViewPager extends ViewPager {
         WindowManager manager = (WindowManager) context.getSystemService(Context.WINDOW_SERVICE);
         assert manager != null;
         Display display = manager.getDefaultDisplay();
-        Point p = new Point();
-        display.getSize(p);
-        int h = p.y;
+        int h = display.getHeight();
         int[] location = new int[2];
         view.getLocationInWindow(location);
         view.getLocationOnScreen(location);

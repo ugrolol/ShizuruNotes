@@ -551,7 +551,7 @@
   <string name="short_energy_reduce">TPred \n%s</string>
   <string name="short_wave_hp_recovery">HPup \n%s</string>
   <string name="short_wave_energy_recovery">TPup \n%s</string>
-  <string name="rank_comparison_description">Calculation method Description:\nleft rank (X) right rank (Y)\n{[∑ (full enhancement equipment values for rank y) + ∑ (equipment stats of ranks lower than y) + (basic stat for (max level + y)] rounded} - {[∑ (full enhancement equipment values for rank x) + ∑ (equipment stats lower than x) + (maximum level + x) basic stats] rounded down}\n * The above formula is the maximum number of characters Calculated based on status \nTPup mean tp after wave TPred mean TP cost reduction basically can`t fit those in table cos notmunerunes</string>
+  <string name="rank_comparison_description">Calculation method Description: left rank (X) right rank (Y) {[∑ (full enhancement equipment values for rank y) + ∑ (equipment stats of ranks lower than y) + (basic stat for (max level + y)] rounded} - {[∑ (full enhancement equipment values for rank x) + ∑ (equipment stats lower than x) + (maximum level + x) basic stats] rounded down}  * The above formula is the maximum number of characters Calculated based on status  TPup mean tp after wave TPred mean TP cost reduction basically can`t fit those in table cos notmunerunes</string>
   <string name="text_calculate">Calculate</string>
   <string name="hint_rank_to">Rank Y</string>
   <string name="hint_rank_from">Rank X</string>
@@ -572,4 +572,8 @@
   <string name="notification_tower_last_hour_title">Luna Tower end 1h</string>
   <string name="notification_tower_last_hour_text">One hour left until end of Luna Tower!</string>
   <string name="quest_campaign">Quests</string>
+    <string name="menu_drop_normal">Normal drop</string>
+  <string name="menu_drop_hard">Hard drop</string>
+  <string name="dialog_server_switch_title">Server switch</string>
+  <string name="dialog_server_switch_text">Note: If you turn on the event notification function in the calendar, switching the server will cancel all the schedule notifications on the original server and switch to the new server schedule notifications after the application restarts.</string>
 </resources>

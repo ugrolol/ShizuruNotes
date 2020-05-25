@@ -397,7 +397,7 @@
 
   <string name="normal">"Нормальный: "</string>
 
-  <string name="normal_before_title">Нормальное уведомление</string>
+  <string name="normal_before_title">Уведомление о нормалах</string>
 
   <string name="normal_type">нормальный тип</string>
 
@@ -879,15 +879,15 @@
 
   <string name="ui_chip_sort_height">Высота</string>
 
-  <string name="ui_chip_sort_magical_atk">Маг Атака</string>
+  <string name="ui_chip_sort_magical_atk">МАтака</string>
 
-  <string name="ui_chip_sort_magical_def">Маг защита</string>
+  <string name="ui_chip_sort_magical_def">МЗащита</string>
 
   <string name="ui_chip_sort_new">Новый</string>
 
-  <string name="ui_chip_sort_physical_atk">Физ Атака</string>
+  <string name="ui_chip_sort_physical_atk">ФАтака</string>
 
-  <string name="ui_chip_sort_physical_def">Физ защита</string>
+  <string name="ui_chip_sort_physical_def">ФЗащита</string>
 
   <string name="ui_chip_sort_position">Позиция</string>
 
@@ -973,9 +973,85 @@
   <string name="db_update_dialog_text">Доступна новая версия БД</string>
   <string name="hatsune_last_hour_title">Уведомление за последний час</string>
   <string name="hatsune_last_title">Уведомление о конце дня</string>
-  <string name="dungeon_before_title">Подземелье за день до уведомления</string>
+  <string name="dungeon_before_title">Уведомить за день до</string>
   <string name="text_drop_mana">Выпадение маны: %d</string>
   <string name="Cast_a_barrier_on_s1_to_reduce_damage_over_s2_with_coefficient_s3_the_greater_the_less_reduced_amount_for_s4_s">Применяет щит на %1$s, который уменьшает урон, взятый на %3$s. Общее поглощенное количество %2$s. Время [ %4$s] сек.</string>
   <string name="icon_previous">Последний выбор</string>
+    <string name="ui_chip_sort_hp">ХП</string>
+  <string name="ui_chip_sort_magical_critical">МКрит</string>
+  <string name="ui_chip_sort_physical_critical">ФКрит</string>
+  <string name="ui_chip_sort_tp_up">ТПгейн</string>
+  <string name="ui_chip_sort_tp_reduce">ТПкост</string>
+  <string name="text_cv">CV</string>
+  <string name="union_burst">UB</string>
+  <string name="union_burst_evo">UB+</string>
+  <string name="main_skill_1">Main 1</string>
+  <string name="main_skill_2">Main 2</string>
+  <string name="main_skill_3">Main 3</string>
+  <string name="main_skill_4">Main 4</string>
+  <string name="main_skill_5">Main 5</string>
+  <string name="main_skill_6">Main 6</string>
+  <string name="main_skill_7">Main 7</string>
+  <string name="main_skill_8">Main 8</string>
+  <string name="main_skill_9">Main 9</string>
+  <string name="main_skill_10">Main 10</string>
+  <string name="main_skill_1_evo">Main 1+</string>
+  <string name="main_skill_2_evo">Main 2+</string>
+  <string name="sp_skill_1">SP 1</string>
+  <string name="sp_skill_2">SP 2</string>
+  <string name="sp_skill_3">SP 3</string>
+  <string name="sp_skill_4">SP 4</string>
+  <string name="sp_skill_5">SP 5</string>
+  <string name="ex_skill_1">EX 1</string>
+  <string name="ex_skill_2">EX 2</string>
+  <string name="ex_skill_3">EX 3</string>
+  <string name="ex_skill_4">EX 4</string>
+  <string name="ex_skill_5">EX 5</string>
+  <string name="ex_skill_1_evo">EX 1+</string>
+  <string name="ex_skill_2_evo">EX 2+</string>
+  <string name="ex_skill_3_evo">EX 3+</string>
+  <string name="ex_skill_4_evo">EX 4+</string>
+  <string name="ex_skill_5_evo">EX 5+</string>
+    <string name="menu_drop_normal">Дроп с нормала</string>
+  <string name="menu_drop_hard">Дроп с харда</string>
+  <string name="dialog_server_switch_title">Поменять сервер</string>
+  <string name="dialog_server_switch_text">Примечание. Если вы включите функцию уведомления о событиях в календаре, переключение сервера отменит все уведомления о расписании на исходном сервере и переключится на уведомления о новом расписании сервера после перезапуска приложения.</string>
+  <string name="hint_rank_from">Ранг Х</string>
+  <string name="hint_rank_to">Ранг У</string>
+  <string name="notification_normal_before_title">Рейт ап нормалов</string>
+  <string name="notification_dungeon_before_2_title">Рейты для данжа</string>
+  <string name="notification_dungeon_before_title">Рейты для данжа</string>
+  <string name="notification_hatsune_last_title">Эвент кончается через 24 часа</string>
+  <string name="notification_hatsune_last_hour_title">Эвент кончается через час</string>
+  <string name="notification_tower_last_hour_title">Башня Луны закрывается</string>
+  <string name="notification_tower_last_hour_text">Остался один час до закрытия</string>
+  <string name="notification_hatsune_last_hour_text">Остался один час до конца эвента</string>
+  <string name="notification_hatsune_last_text">Эвент закроется через сутки. Не забудьте потратить оставшиеся билеты и собрать все гемы</string>
+  <string name="notification_dungeon_before_2_text">Через 2 дня будет рейт ап на данж. Не выходите из него сегодня.</string>
+  <string name="notification_dungeon_before_text">Завтра будет рейт ап на даж.</string>
+  <string name="notification_normal_before_text">Рейт апы для нормалов начнуться через 24 часа, запасайтесь стаминой.</string>
+  <string name="tower_last_title">Упоминание в последний день</string>
+  <string name="tower_last_hour_title">Упоминание перед закрытием</string>
+  <string name="quest_campaign">Квесты</string>
+  <string name="text_calculate">Посчитать</string>
+  <string name="rank_comparison_description">Calculation method Description: left rank (X) right rank (Y) {[∑ (full enhancement equipment values for rank y) + ∑ (equipment stats of ranks lower than y) + (basic stat for (max level + y)] rounded} - {[∑ (full enhancement equipment values for rank x) + ∑ (equipment stats lower than x) + (maximum level + x) basic stats] rounded down}  * The above formula is the maximum number of characters Calculated based on status  TPup mean tp after wave TPred mean TP cost reduction basically can`t fit those in table cos notmunerunes</string>
+  <string name="short_energy_recovery">TPgain \n%s</string>
+  <string name="short_energy_reduce">TPred \n%s</string>
+  <string name="short_physical_atk">Patk \n%s</string>
+  <string name="short_physical_crt">Pcrt \n%s</string>
+  <string name="short_physical_def">Pdef \n%s</string>
+  <string name="short_magical_atk">Matk \n%s</string>
+  <string name="short_magical_crt">Mcrt \n%s</string>
+  <string name="short_magical_def">Mdef \n%s</string>
+  <string name="short_hp">HP \n%s</string>
+  <string name="short_life_steal">LL \n%s</string>
+  <string name="short_accuracy">Acc \n%s</string>
+  <string name="short_dodge">Ddg \n%s</string>
+  <string name="short_hp_recovery">HPrec \n%s</string>
+  <string name="short_wave_hp_recovery">HPup \n%s</string>
+  <string name="short_wave_energy_recovery">TPup \n%s</string>
+  <string name="use_d1_to_s2_if_target_is_magical_type">"Применить %1$d к %2$s если цель магического типа "</string>
+  <string name="use_d1_to_s2_if_target_is_not_magical_type">"Применить %1$d к %2$s если цель физического типа "</string>
+  <string name="title_rank_comparison">Сравнение рангов</string>
 
 </resources>
