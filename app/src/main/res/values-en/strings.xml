@@ -576,4 +576,9 @@
   <string name="menu_drop_hard">Hard drop</string>
   <string name="dialog_server_switch_title">Server switch</string>
   <string name="dialog_server_switch_text">Note: If you turn on the event notification function in the calendar, switching the server will cancel all the schedule notifications on the original server and switch to the new server schedule notifications after the application restarts.</string>
+  <string name="change_energy_recovery_ratio_by_damage_to_s1_when_s2_get_damage_next_time">When %2$s is damaged by the next action, value of TP recovery changed to [the original value *%1$s].</string>
+  <string name="make_this_skill_ignore_decoy">"Makes this skill immune to provocation. "</string>
+  <string name="text_unique_equipment">Exclusive equipment</string>
+  <string name="unimplemented">Unimplemented</string>
+  <string name="rank_d">R%d</string>
 </resources>

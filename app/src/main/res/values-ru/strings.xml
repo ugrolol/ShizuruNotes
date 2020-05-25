@@ -1053,5 +1053,10 @@
   <string name="use_d1_to_s2_if_target_is_magical_type">"Применить %1$d к %2$s если цель магического типа "</string>
   <string name="use_d1_to_s2_if_target_is_not_magical_type">"Применить %1$d к %2$s если цель физического типа "</string>
   <string name="title_rank_comparison">Сравнение рангов</string>
+  <string name="change_energy_recovery_ratio_by_damage_to_s1_when_s2_get_damage_next_time">Когда %2$sполучает урон от следущего действия, значение восстановления ТП меняется на [the original value *%1$s].</string>
+  <string name="make_this_skill_ignore_decoy">"Делает навыку иммунитет к провокации. "</string>
+  <string name="text_unique_equipment">Уникальная экипировка</string>
+  <string name="unimplemented">Не реализовано</string>
+  <string name="rank_d">R%d</string>
 
 </resources>
