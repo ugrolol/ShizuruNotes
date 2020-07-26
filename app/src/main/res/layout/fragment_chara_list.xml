@@ -57,7 +57,8 @@
                     <AutoCompleteTextView
                         android:id="@+id/dropdown_text1"
                         style="@style/myDropdownAutoText"
-                        android:layout_width="match_parent" />
+                        android:layout_width="match_parent"
+                        android:textSize="13sp" />
 
                 </com.google.android.material.textfield.TextInputLayout>
 
@@ -71,7 +72,8 @@
                     <AutoCompleteTextView
                         android:id="@+id/dropdown_text2"
                         style="@style/myDropdownAutoText"
-                        android:layout_width="match_parent" />
+                        android:layout_width="match_parent"
+                        android:textSize="13sp" />
 
                 </com.google.android.material.textfield.TextInputLayout>
 
@@ -85,7 +87,8 @@
                     <AutoCompleteTextView
                         android:id="@+id/dropdown_text3"
                         style="@style/myDropdownAutoText"
-                        android:layout_width="match_parent" />
+                        android:layout_width="match_parent"
+                        android:textSize="13sp" />
 
                 </com.google.android.material.textfield.TextInputLayout>
 
