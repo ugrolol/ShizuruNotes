@@ -36,7 +36,7 @@
     <string name="HP">HP</string>
     <string name="TP">TP</string>
     <string name="ui_text_filter">Filter</string>
-    <string name="ui_text_position">Layout</string>
+    <string name="ui_text_position">Position</string>
     <string name="ui_chip_atk_type_physical">Physical</string>
     <string name="ui_chip_atk_type_magical">Magical</string>
     <string name="ui_btn_reset">Reset</string>
@@ -570,6 +570,7 @@
     <string name="menu_drop_hard">Hard</string>
     <string name="text_unique_equipment">Unique Equipment</string>
     <string name="unimplemented">Unimplemented</string>
+    <string name="rank_d">Rank %d</string>
     <string name="change_energy_recovery_ratio_of_action_s1_to_s2_when_s3_get_damage">Changes the TP Recovery Rate (including from damage) of %3$s to [Original Value × %2$s] upon receiving [Action %1$s].</string>
     <string name="ui_chip_sort_effective_physical_hp">PhysicalEHP</string>
     <string name="ui_chip_sort_effective_magical_hp">MagicalEHP</string>
