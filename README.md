@@ -1,3 +1,6 @@
+Stoped maintain just cos original have some sort of english and modification that im used to do doesnt make big difference
+if you need something specific just write me in discord 
+
 # ShizuruNotes
 An unofficial Android tool application of the game "Princess Connect Re:Dive".  
 
